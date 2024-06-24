@@ -334,7 +334,7 @@ def main(
     }
     start = -1 if compile else 0
 
-    for i in range(start, num_samples):
+    for i in range(start, (num_samples+10)):
         device_sync(device=device) # MKG
         if i >= 0 and interactive:
             prompt = input("What is your prompt? ")
@@ -406,7 +406,8 @@ def main(
         print(f"Acceptance probs: {acceptance_probs}")
         print(f"Mean Accepted: {sum([idx * i for idx, i in enumerate(counts_aggregated)])/sum(counts_aggregated)}")
 
-    print(f"Average tokens/sec: {torch.mean(torch.tensor(aggregate_metrics['tokens_per_sec'])).item():.2f}")
+    print(f"Average tokens/sec of last 10 iterations: {torch.mean(torch.tensor(aggregate_metrics['tokens_per_sec'][-10:])).item():.2f}")
+    print(f"Std. dev. tokens/sec of last 10 iterations: {torch.std(torch.tensor(aggregate_metrics['tokens_per_sec'][-10:])).item():.2f}")
     print(f"Memory used: {torch.cuda.max_memory_reserved() / 1e9:.02f} GB")
 
 
