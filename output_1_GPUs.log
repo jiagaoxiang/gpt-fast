@@ -1,0 +1,1107 @@
+Running commands...
+
+**************Running baseline with meta-llama/Meta-Llama-3-8B...
+Using device=cuda
+Loading model ...
+Time to load model: 9.67 seconds
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+<|begin_of_text|>Hello, my name is and I'm writing you today to learn more about the 1999 Saturn SL1 Sedan 4D listed for $1,495.00. I live in the area and I would like to hear back from you soon and learn more about this vehicle. Please call me at at your earliest convenience.<|end_of_text|><|begin_of_text|>:// [email protected]> [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected] [email protected
+Time for inference 1: 22.22 sec total, 9.00 tokens/sec
+Bandwidth achieved: 135.12 GB/s
+<|begin_of_text|>Hello, my name is Daniel Rojas. I am a digital designer & developer from Bogotá, Colombia. You can find me on twitter or drop me a line at danielrojassoy@gmail.com.
+There are two kinds of design: good design & bad design.<|end_of_text|><|begin_of_text|>://www.google.com/?client=pub-7939699843645352:googleads.g.doubleclick.net/pagead/html5/rtv/?xjs=0; http://adsense.google.com/aclk?client=ca-pub-7939699843645352&ad_url=https://www.google.com/&sa=X&ai=S6:5jKUqdP9KqgUBBLlPYY9iAUYIhYB3F5jRtq2xQ9I2-9IBTzgygKQjWqXWqyG2Q7yV5IwLjOa6n9t5Q2hFw
+Time for inference 2: 7.52 sec total, 26.60 tokens/sec
+Bandwidth achieved: 399.22 GB/s
+<|begin_of_text|>Hello, my name is Jono and I am a 45 year old male, who lives in the UK. I am a professional, single parent. I work on a varied shift pattern and therefore require flexibility as to when I can travel. I am a very active, outdoors type of person who loves to make the most of the countryside, beaches and cities that are so abundant in the UK. I have 2 children, who are now adults. I have always been a keen traveller and have visited many countries around the world, but i have now been inspired to spend much more time exploring further afield and have chosen to house sit in order to do this. I am very honest, reliable and trustworthy. I am very well organised and very considerate to others and their property. I am non-smoker and don't really drink alcohol, and so am a very tidy and clean person.
+I have been very fortunate in my life to be able to travel quite extensively, both in this country and abroad. During my
+Time for inference 3: 7.52 sec total, 26.60 tokens/sec
+Bandwidth achieved: 399.22 GB/s
+<|begin_of_text|>Hello, my name is Daniele.
+You are curious about the world around you, and so am I.
+Let’s explore the galaxy together.
+I’m a student of the Film and Fashion department at the University of Applied Sciences in Lucerne. I am also a very passionate photographer. I love what I do, because I believe that when you do what you love, you’ll never work a day in your life.<|end_of_text|><|begin_of_text|>://www.thefreedictionary.com/ is a website that can help you become the best photographer possible. It is a platform where you can post your photos and get constructive feedback from everyday people from all over the planet. It’s all about learning. We all have something unique to offer, whether it’s the camera or a fashion. I love using photography as an excuse to explore. As part of my exploration I have been to many different places and I really want to show you what I have seen.
+I am here to inspire you and help you become the best photographer you can be.
+
+Time for inference 4: 7.50 sec total, 26.65 tokens/sec
+Bandwidth achieved: 400.03 GB/s
+<|begin_of_text|>Hello, my name is and I'm writing you today to learn more about the 2012 Chrysler 200 Touring listed for $10,900.00. I live in the area and I would like to hear back from you soon and learn more about this vehicle. Please call me at at your earliest convenience.
+This 2012 Chrysler 200 Touring will impress you with its features and overall performance! This Chrysler is in great condition inside and out! It comes with a/c, power windows, power locks, power mirrors, tilt steering wheel, cruise control, etc. it also is equipped with the U Connect phone and audio system. This 200 has a well kept interior and a clean exterior. The car has only been driven locally by one owner, making this a truly well taken care of car. The only complaint we have is that it's too nice of a car to let go of! Don't wait, call us today to schedule a test drive!<|end_of_text|><|begin_of_text|>.FormsAutoTitle (2) This
+Time for inference 5: 7.51 sec total, 26.63 tokens/sec
+Bandwidth achieved: 399.67 GB/s
+<|begin_of_text|>Hello, my name is Robert Conroy and I am a licensed Realtor in the State of New Mexico. I am also a member of the New Mexico Realtors Association and the South West Multiple Listing Service. I have my B.S. Degree in Graphic Design and have over 15 years of experience in the marketing field. My experience in the graphic design field has taught me to think outside the box when it comes to selling a home. I have 2 children, and I am an avid supporter of our local school, the Los Lunas Valley High School. I am also a member of the Los Lunas Lions Club, The Lions Club International has a proud tradition of service and fellowship.<|end_of_text|><|begin_of_text|>://w
+//w" /> //w" /> Lions, which was founded in 1917, is the world's largest service club organization. Our 1.3 million members live in our communities, united to provide volunteer service. We're men, women and children who are friends, family and co-workers.
+Time for inference 6: 7.51 sec total, 26.64 tokens/sec
+Bandwidth achieved: 399.80 GB/s
+<|begin_of_text|>Hello, my name is Jessica Zawadzki.
+I am a freelance web designer, illustrator, and entrepreneur. I also teach both Photoshop and Illustrator at the college level.
+Last, but certainly not least, I have been certified in Adobe Certification - Photoshop and Illustrator.
+My career started in 1996 with a background in illustration, design, and art direction. I have worked for many years in the in-house and agency areas of graphic design. This experience has given me a creative approach to problem solving and design work.
+I have been fortunate to be able to combine my love for art and design with my knowledge and skills to help people in all aspects of design and art.
+If you are looking for an illustrator or designer, if you have any questions about classes, or if you just want to say "Hello!" to a graphic arts professional, feel free to contact me.
+I believe there is always a solution to every design challenge. Let me help you create the solution!<|end_of_text|><|begin_of_text|>://www.google-webmaster-tool
+Time for inference 7: 7.74 sec total, 25.85 tokens/sec
+Bandwidth achieved: 388.07 GB/s
+<|begin_of_text|>Hello, my name is Alex. I am very caring and have been a part of the childcare industry for nearly 10 years. I am a mother myself and have 3 children. I have always been surrounded by children but I come from a family of teachers. I am very compassionate with children and have a wonderful sense of humor. I am in the process of getting my degree in early childhood education. I have references if needed.
+Contact Alex M. Now<|end_of_text|><|begin_of_text|>�h5n0.<|end_of_text|><|begin_of_text|>://sema4google.com/any2ch8Ys1x2ndy5x6x8x0n3x2X0<|end_of_text|><|begin_of_text|>://sema4google.com/any2ch8Ys1x2ndy5x6x8x0n3x2Ys1x2ndy5x6x8x0n3x2x2P0x0b0x2x2x8x.0x4x1u8
+Time for inference 8: 7.62 sec total, 26.26 tokens/sec
+Bandwidth achieved: 394.18 GB/s
+<|begin_of_text|>Hello, my name is Jennifer and when I was 15 I was diagnosed with Type 1 diabetes. I was a little upset and scared, and I was told to go home and give myself a shot everyday. I did that for a while, but I ended up having to go to the hospital because I didn’t listen to what the doctor said and I ended up in the hospital. The next week my mom and I went to the doctor and I got a pump. I was excited about that, the only problem was that I didn’t know anyone else that had a pump. After that I moved on and I did good for a while. The only problem was I was missing doses because I was so busy. Then I found this website! I read it and I liked it, it gave me a place to go, I don’t have to be alone anymore. I’m 19 now and I have an A1c of 5.7!! Thanks JDRF!<|end_of_text|><|begin_of_text|>://sodiummilk
+Time for inference 9: 7.60 sec total, 26.31 tokens/sec
+Bandwidth achieved: 394.92 GB/s
+<|begin_of_text|>Hello, my name is Iga and I&apos;m a photographer. I&apos;m based in Poznań, Poland, but I&apos;m available for assignments in any place. I&apos;m interested in documentary, portraiture and wedding photography. I&apos;m open to any kind of cooperation.<|end_of_text|><|begin_of_text|>://www.facebook.com/igorawilk/<|end_of_text|><|begin_of_text|>_REF /https:\/\/www.instagram.com/igawilk/), but I&apos;m also available for any other projects. I believe in creating really beautiful photos, with emotions and strong feelings. I&apos;ve been shooting for over 9 years and I&apos;d be pleased to make your photos really great. I&apos;m open for all tips and ideas. If you have any question regarding my work, feel free to contact me.
+*Portfolio and portfolio_2 to download.
+I have a number of passions, a few of them are listed below.<|end_of_text|><|begin_of_text|>://www.youtube.com/igmixfilm/), I&apos;m also a professional videographer /
+Time for inference 10: 7.61 sec total, 26.28 tokens/sec
+Bandwidth achieved: 394.43 GB/s
+<|begin_of_text|>Hello, my name is Sanaa and I am a first generation college student. I transferred from Westchester Community College my freshman year and am currently a junior at the University at Buffalo. I am pursuing a degree in Public Health and a minor in Psychology because these areas interest me the most. When I am not attending school or working, I like to play Rugby with the Buffalo Women’s Rugby team and you can usually find me at a park or the beach. I hope to one day become a doctor and help people from around the world.
+Sanaa is a junior at the University at Buffalo.
+I am going to major in public health because I would like to become an epidemiologist. I would like to work in a lab and search for cures to diseases that are very common in our day and age such as cancer and HIV. I also am very interested in public health because I would like to go into research with my major and there are so many fields in research that I can look into to help others.
+Time for inference 11: 7.55 sec total, 26.51 tokens/sec
+Bandwidth achieved: 397.86 GB/s
+<|begin_of_text|>Hello, my name is Andrea and I am a professional freelance model, but I am more than that, I am a human being with feelings, emotions, interests and hobbies. I am an animal lover, I have 2 cats and a dog.
+Now I am trying to build my portfolio and I need photos to show to my clients.
+Please message me if you feel like working with me!<|end_of_text|><|begin_of_text|>://)I am looking forward to hearing from you!
+Elegant & Sexy Girl in Studio photoshoot!<|end_of_text|><|begin_of_text|>://)Elegant &amp;Sexy Girl in Studio photoshoot!
+Elegant & Sexy Girl in Studio photoshoot!
+I am a model, but I am not only that, I am a human being with feelings, emotions, interests and hobbies.
+I am an animal lover, I have 2 cats and a dog.
+Now I am trying to build my portfolio and I need photos to show to my clients.
+Please message me if you feel like working with me!
+I am looking forward to hearing from
+Time for inference 12: 7.56 sec total, 26.45 tokens/sec
+Bandwidth achieved: 397.04 GB/s
+<|begin_of_text|>Hello, my name is Kate. I am a writer, a parent, a friend, a daughter and a wife. I am also an ex-pat living in India and an avid blogger. This blog, Kate’s Wanderings, is a collection of my thoughts and happenings. I write about what inspires me, what surrounds me, what’s going on in my life, my travels, my family, my friends, and everything in between.
+I am a pretty private person, and I am much prefer writing about others than about myself. That being said, if you’ve read anything on my blog, you’ll know that I like to write about India and its people. I love it here. It is my second home and I plan on spending the rest of my life here. I love it so much in fact, that I wrote a book about it. It is a memoir about the year we adopted our daughter from India, and it just so happens that she is the inspiration for me going to India.
+If
+Time for inference 13: 7.61 sec total, 26.29 tokens/sec
+Bandwidth achieved: 394.56 GB/s
+<|begin_of_text|>Hello, my name is Robert. I’m an artist and illustrator based in the UK. I graduated from Norwich University of the Arts with a 2:1 in Illustration with Animation.
+My work is a selection of drawings, 2D animation, character designs, storyboards, and concept art. I am looking for work and would love to discuss any creative ideas you may have.
+Please feel free to get in touch with any questions or enquiries. I usually reply within 48 hours.<|end_of_text|><|begin_of_text|>_REF .<|end_of_text|><|begin_of_text|>://a /RELATIONSHIP .
+EMAIL: workwithrobertmck@outlook.com
+WEBSITE: www.robertmck.co.uk
+TWITTER: @_RobertMck<|end_of_text|><|begin_of_text|>://a /RELATIONSHIP .
+LinkedIn: /a RELATIONSHIP .LinkedIn.com/in/Robert-McKendrick-2a4a2a4a8a2
+For more information or a more in-depth look into my work experience please download my CV here.<|end_of_text|><|begin_of_text|>://
+Time for inference 14: 7.62 sec total, 26.26 tokens/sec
+Bandwidth achieved: 394.11 GB/s
+<|begin_of_text|>Hello, my name is Mark Bratslavsky. I am a graduate of the University of Georgia's Terry College of Business's degree program for marketing. I am a recent graduate and am currently looking for jobs. For the past year, I have worked on a full-time basis at Credible Accountants. I have been working as the Marketing Manager there, where I have been conducting a lot of different jobs regarding marketing, from posting on social media to writing articles for the website. I have also been conducting social media marketing on behalf of our clients who we have been hired to provide marketing services for. I would like to work on a full-time basis in the future, as it will give me a lot of experience, and a lot of experience will be an integral part of my success in the real world.
+I have worked on a full-time basis for my entire career, and I have been able to make a lot of progress in my career. In my job at Credible Accountants, I have been
+Time for inference 15: 7.81 sec total, 25.60 tokens/sec
+Bandwidth achieved: 384.26 GB/s
+<|begin_of_text|>Hello, my name is Robert and I am the creator of Spooky's Jump Scare Mansion.
+I am also the creator of Game Jolt.
+I own and run a YouTube channel.
+I am a student of Computer Science and Math at Cal Poly San Luis Obispo.
+I am currently a game developer for Bossa studios.
+I like the game very much.
+The game makes me very nervous, but I really like the game!<|end_of_text|><|begin_of_text|>://0)
+A new update for Spooky's World is launching soon. I've got a few updates to share with you today so sit back and read along. I finished the new map for Spooky's World. It's a new start, I'm adding enemies from the DLC, lots of new rooms, new characters, and a new boss. I'm really excited about this map. I also fixed a bunch of bugs and added several new features. I added a new "last enemy" system. Instead of always being teleported to the start of the level,
+Time for inference 16: 7.79 sec total, 25.69 tokens/sec
+Bandwidth achieved: 385.55 GB/s
+<|begin_of_text|>Hello, my name is Julie May, and I am a wife, mother, and grandmother. I come from a family of strong women, and I'm so very proud to be a part of that lineage. I'm the oldest of 4 children, and over my lifetime have watched my sisters grow into magnificent women I'm so proud to call my sisters. I have now become the grandmother of 5 beautiful grandchildren and I love them more than I can say. I love my family, I love my friends, and I love my life.
+I married in my late 20's and we had 3 children. My oldest was a healthy, happy newborn when I was diagnosed with Hodgkin's Lymphoma. I had a relatively fast recovery and little kids are resilient. I was diagnosed with Breast Cancer when my youngest son was 5 and again when he was 7. I was never a perfect patient, and I'm not a perfect person but I did manage to be there for my family and my children all
+Time for inference 17: 7.55 sec total, 26.49 tokens/sec
+Bandwidth achieved: 397.63 GB/s
+<|begin_of_text|>Hello, my name is Shalyn and I am an eighteen year old college student studying to be an architect. I work as a server and in an ice cream shop. I am a Christian and have a deep love for the Lord and for people.
+I have been asked to serve as an assistant to an older man who has a physical disabiltiy and is terminally ill. The man is in his eighties and has Parkinson's disease and a terminal case of lung cancer. He lives in a nursing home with staff 24 hours a day. I am expected to be at his bedside for at least two hours per day, five days a week, to help him with his basic needs.
+Since beginning this work I have grown in compassion for my fellow man. I have also seen the light return to the patients eyes and heard his joy in the knowledge that he is still wanted and needed by others. I am a patient person and work well with others.
+I look forward to the opportunity to help others and in
+Time for inference 18: 7.58 sec total, 26.39 tokens/sec
+Bandwidth achieved: 396.15 GB/s
+<|begin_of_text|>Hello, my name is Ashleigh and I work on the PR team at the University of St Andrews. One of the most frequent questions I’m asked is ‘what do you like about working at the University?’ This is actually a very difficult question for me to answer because there are so many things I enjoy about the University, namely its beauty, its inclusiveness, its student body and the fact that I get to work alongside the most amazing staff and colleagues. I’ve been at St Andrews for so long that I sometimes forget how lucky I am to be here and how often I’ve had my horizons broadened and my heart warmed by meeting and working with so many inspiring and interesting people.
+However, one of the things I like most is the opportunity to work with some of the University’s student journalists. Most of you know me as the person who sends you the press releases for our events, but I’d like to let you in on a secret: I am actually a trained journalist! After studying English Literature at undergraduate
+Time for inference 19: 7.56 sec total, 26.46 tokens/sec
+Bandwidth achieved: 397.14 GB/s
+<|begin_of_text|>Hello, my name is Diana and I am a qualified, experienced and insured hypnotherapist and life coach in Norwich.
+I offer a friendly, supportive and relaxed environment where we can work together to achieve your goals.
+Hypnotherapy is a therapy that can help you to make positive changes in your life. The state of hypnosis, is a natural state of mind in which we are very calm, relaxed and focused, in which we are more open to suggestions and positive change. Some people find it easier to change their thinking and behaviour when they are relaxed and focused.
+I have been working successfully with clients for many years, helping them to make positive changes in their life. Issues I help clients with include; stress, anxiety, depression, fears and phobias, exam nerves, nail biting and other habits, weight management, smoking, relationship issues, assertiveness, confidence and self-esteem, anger and much more. I also provide hypnotherapy for sports performance, public speaking, exam nerves, stage fright,
+Time for inference 20: 7.57 sec total, 26.42 tokens/sec
+Bandwidth achieved: 396.63 GB/s
+<|begin_of_text|>Hello, my name is Sandra King. I’m a single mom and the director of a non-profit (no salary) in Miami, Florida. Please help me out. I am not asking for a hand-out, just a hand-up. I am on a very limited budget and have been for a number of years. I have had several challenges and I need help.
+I have been a single mom for 25 years. I have raised 3 children to adulthood. One has been married for seven years, one is married for two years, and the last I just sent to college at 18. They didn’t have it easy growing up, but I wouldn’t change it for the world. I am very proud of them.
+I have always worked; in fact, I have also worked two jobs for the past 10 years. I am always working, and it is very difficult to earn enough money. I have worked in the medical field for many years and in the last 10 years for a non-profit.
+Time for inference 21: 7.56 sec total, 26.44 tokens/sec
+Bandwidth achieved: 396.87 GB/s
+<|begin_of_text|>Hello, my name is Cherie, and I love to eat cupcakes! As a cupcake addict I bake them every chance I get. I don’t only love to bake them for my family, but for the kids at my church, friends, and especially for charity events. I love making cupcakes for people that I love, but the best part about baking is helping people in need. Baking for charity events has become my favorite thing to do. Not only does my family and everyone I know get to enjoy my baking, but I get to help people who are less fortunate. I have baked all kinds of cupcakes from rainbow cupcakes, cupcakes that look like a hamburger to cupcakes that look like a unicorn. I have been baking for about two and a half years.
+I have been baking since I was eleven years old. I have a passion for cooking. I am 13 years old and I am a freshman at Deer Creek High School. When I have free time I love to bake and hang out with my friends at
+Time for inference 22: 7.56 sec total, 26.44 tokens/sec
+Bandwidth achieved: 396.83 GB/s
+<|begin_of_text|>Hello, my name is Nolwenn FLEURY and I'm 30 years old and currently living in France. I am a native French speaker and teach French. I have been an online French teacher with Verbalplanet.com since June 2015. I can speak the following languages fluently: French, English. I am currently offering a discounted initial trial lesson at 50% of my normal lesson price for new students.<|end_of_text|><|begin_of_text|>://sharethis.addthis.com/optout.js?token=fe7f65cfba39fdd84df4c9c90cb43cf0 //addthis.sharethis.com/web.js<|end_of_text|><|begin_of_text|>.FormsService?service=facebook&version=2.4&login=1&language=en&show_title=1&url=https://www.verbalplanet.com/media/photos/2/02/02/03/02/15/noli1.jpg&title=04/02/2015 23:29&text=Nolwenn+is+a
+Time for inference 23: 7.74 sec total, 25.84 tokens/sec
+Bandwidth achieved: 387.79 GB/s
+<|begin_of_text|>Hello, my name is Sarah, and today I am going to give you a tour of my favorite coffee shop in Berlin. You’re going to see a big round table in the corner and a big round table in the corner. And this is where I sit every day.
+I think it’s because I’m an introvert and I love people I want to talk to but I don’t want to be bothered with people I don’t want to talk to, and this is the perfect place to sit alone. It’s right in the back so I can see all the goings on, but I can also just be by myself.
+And I’ll give you a little bit of a history of this place. It was opened up in 1879 by a man named Jacob Zollner. He was a coffee roaster. It was originally called Zimmermann, which means woodworker, because he had a wood shop in the back. And then just a few years later, he opened up a cafe here in the building
+Time for inference 24: 7.67 sec total, 26.09 tokens/sec
+Bandwidth achieved: 391.63 GB/s
+<|begin_of_text|>Hello, my name is Yanni and I am a multi-talented and experienced photographer and filmmaker. I specialise in all aspects of photography and filming, from headshots to corporate videos.
+I was born and raised on the Greek island of Paros, where my love for capturing and telling stories began.
+I became a professional photographer and filmmaker at the age of 21 and quickly became one of the leading professionals in the field. I worked for two of Paros' top wedding companies and was part of their teams for many years, as well as running my own wedding business for a while.
+Alongside wedding work, I have worked for a variety of clients - from commercial projects, to headshots, to music videos. A few of the clients I worked for include Panasonic, Olympus, Audi, Pirelli and many others. In 2016, I was featured in the Greek Magazine of Photography for my work. I have also been featured in Paros Life Magazine, a popular lifestyle magazine published in Paros
+Time for inference 25: 7.58 sec total, 26.39 tokens/sec
+Bandwidth achieved: 396.08 GB/s
+<|begin_of_text|>Hello, my name is Christina Maeda and I am a licensed professional counselor. I am so happy you decided to visit my page. I will work with you to find solutions to your problems and help you gain a better understanding of yourself and your relationships. I am committed to providing a safe and supportive environment that promotes personal growth, well-being, and healing. I will strive to provide you with the best therapeutic experience possible.
+As a therapist, I draw on my training from the University of California-Berkeley and my experience working in community agencies to offer you professional and compassionate care that is tailored to your specific needs. I have helped clients struggling with depression, anxiety, relationship issues, self-esteem, and identity crises. I am a native of California and I am fluent in both English and Japanese.
+My professional philosophy is based on compassion and respect for my clients. I am committed to helping you develop a deeper understanding of yourself and your relationships, so you can overcome obstacles and reach your full potential.
+My therapeutic approach is human
+Time for inference 26: 7.59 sec total, 26.35 tokens/sec
+Bandwidth achieved: 395.56 GB/s
+<|begin_of_text|>Hello, my name is Chris Garman and I am a High School and Middle School Math teacher. I teach Algebra I, Geometry, Algebra II, and Pre-Calculus. I also have a Masters Degree in Math Education and a Masters Degree in Gifted Education from the University of Georgia.
+At Candler County Middle School, I am the Math Interventionist. I work with 8th grade students on a daily basis.
+In May of 2016, I was awarded the PSC SAI Regional Teacher of the Year for Region 4.
+I have been married to my wonderful wife, Amanda, for 17 years. We live in Ailey, Georgia and attend church at Allendale Baptist Church in Allendale, South Carolina. We have three children, Josiah, Joel, and Zoey.<|end_of_text|><|begin_of_text|>://
+I became a teacher because I want to make a positive difference in the lives of students. This is the greatest profession in the world. I wake up each morning eager to come to work. I
+Time for inference 27: 7.90 sec total, 25.33 tokens/sec
+Bandwidth achieved: 380.23 GB/s
+<|begin_of_text|>Hello, my name is Brian, I am a certified massage therapist specializing in hot stone massage therapy. I have been a massage therapist since 2006 and love my job! Here's a little background on me, where I got my training, my experience and what makes me unique.
+I am a graduate of the New Hampshire Institute for Therapeutic Arts, a nationally accredited school of massage therapy. I have had the privilege of serving various clients over the years, including celebrities, professional athletes, people with disabilities and trauma victims. As you can see I have a wide range of clientele, from the physically fit to the physically disabled. I believe my experience gives me a well-rounded perspective on the field of massage therapy.
+My training as a massage therapist has given me a comprehensive knowledge and understanding of the human body. I will be able to fully evaluate your body's function and communicate with you about how I can help. My focus is on meeting your goals and helping you feel your best.<|end_of_text|><|begin_of_text|>://> I take an integr
+Time for inference 28: 7.90 sec total, 25.31 tokens/sec
+Bandwidth achieved: 379.91 GB/s
+<|begin_of_text|>Hello, my name is Pippa and I’m a twenty-something-year-old woman trying to find my way through life. I’ve always been a bit of a late bloomer, as I was the last one out of my year to pass my driving test, I was the last one to leave University, I’m still the last one of my friends to have got married, the list goes on. I feel like I’m still waiting for my life to start, and I’m not sure what I’m waiting for.
+I hope you’ll enjoy reading about my journey through life, both the exciting parts, the boring ones and the ones where I can’t even explain what in the hell I’ve been doing. Thanks for taking the time to read my blog, you’re awesome.<|end_of_text|><|begin_of_text|>://googleads.g.doubleclick.net/pagead/viewthroughconversion/909131330/?value=0.00&currency_code=GBP&pagelinks=1&fmt=3&guid=ON&color=000
+Time for inference 29: 7.87 sec total, 25.41 tokens/sec
+Bandwidth achieved: 381.47 GB/s
+<|begin_of_text|>Hello, my name is Andrew and I’m an Australian living in Brisbane in Queensland, Australia. I have been a teacher for the past twelve years now, and during this time I’ve taught in three different countries (Australia, the United Arab Emirates, and Colombia). I’m also a writer. I have written several pieces of fiction that have been published in various literary magazines around the world, and I’ve written a book about my experience teaching in the Middle East that was published in Australia and the United States. In addition to the above, I have also travelled extensively throughout several continents. I love travelling and I love writing about it. I also feel there is something special about travelling as a teacher.
+I love teaching English and I love Travelling, I love writing about both and I love doing both at the same time! I also love helping others improve their English and I love helping people improve their English by following my English travels in Asia, Europe, South America, and the Middle East. I think there is something special
+Time for inference 30: 7.74 sec total, 25.83 tokens/sec
+Bandwidth achieved: 387.65 GB/s
+==========
+Average tokens/sec of last 10 iterations: 25.94
+Std. dev. tokens/sec of last 10 iterations: 0.47
+Memory used: 16.17 GB
+
+**************Running torch.compile with meta-llama/Meta-Llama-3-8B...
+Using device=cuda
+Loading model ...
+Time to load model: 9.10 seconds
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+Compilation time: 239.07 seconds
+<|begin_of_text|>Hello, my name is Daniel and I am the creator of "A Simple Man's Bible Study Blog" I find myself very passionate in understanding the true word of God from the actual Hebrew and Greek tongue. I am a layman who has been studying the Bible for the last 15 years. My intent is to share what I have learned from the Holy Scriptures. I hope you will find what you are looking for.
+It has been brought to my attention that there are some people who have been misled about the true teachings of Jesus Christ and his Apostles. They have been led to believe that Jesus taught in a Gentile fashion using Greek ideas. They believe that Jesus was not Jewish or that he converted to Greek Philosophy once he was crucified and resurrected. I assure you that this could not be further from the truth! Jesus was a Jew, born of Jewish parents and lived, breathed and died as a Jew. As a Jew he spoke the language of the Hebrews. He spoke Hebrew and Aramaic,
+Time for inference 1: 2.57 sec total, 77.72 tokens/sec
+Bandwidth achieved: 1166.62 GB/s
+<|begin_of_text|>Hello, my name is Jacek and I try to create useful things (or at least interesting). I am software engineer, speaker and trainer. My interests include among others: .NET, SQL Server, Agile development, Git, Python, data analysis, sports and gadgets.
+More about me you can find on my website or on Twitter.<|end_of_text|><|begin_of_text|>://www.twitter.com
+I have been working in the IT branch in many areas. My job is to create high quality software in leading positions. I have 15 years of experience in the IT industry.
+Below you can see the list of the companies I had been working for during my career.
+From 2016 I am working as Lead Software Engineer in the Microsoft team in CEE region (mostly traveling to meet the customers).
+In my 5 years of experience in the e-commerce industry, I was involved in several projects that are now part of the leading worldwide portal Allegro.
+In one of my projects I was responsible for creating a system that enabled the seller to
+Time for inference 2: 2.57 sec total, 77.70 tokens/sec
+Bandwidth achieved: 1166.33 GB/s
+<|begin_of_text|>Hello, my name is Dan and I'm a 43 year old single father of 3 kids and 2 grandkids which I am very proud of. I'm a very open minded guy, living in St. Patrick, Ontario, with my 3 children and my Mom. I'm the oldest of 5 boys. I've worked in the field of heavy construction for the past 19 years and I love my job. I look forward to getting to know everyone who want to get to know me. I will try to answer any and all questions that I can. The best form of communication for me is through chat, but I am also available through email. Thanks for taking the time to read my profile and I hope you become a part of my life.<|end_of_text|><|begin_of_text|>://<|end_of_text|><|begin_of_text|>://xhtml>My name's Dan, I'm a 43 year old single father of 3 kids and 2 grandkids, which I am very proud of. I'm a very open minded guy, living in
+Time for inference 3: 2.57 sec total, 77.76 tokens/sec
+Bandwidth achieved: 1167.21 GB/s
+<|begin_of_text|>Hello, my name is and I'm writing you today to learn more about the 2019 Ford F-150 XL SuperCab 4WD listed for $36,995.00. I live in the area and I would like to hear back from you soon and learn more about this vehicle. Please call me at at your earliest convenience.
+Why do so many people choose to buy their next used vehicle at Crevier Ford Lincoln of Orange!?? Because we stand behind our vehicles! We are a complete dealership that provides the very best levels of service in all areas. Whether purchasing a used car, a new vehicle, service, parts, or financing, we will exceed your every expectation! Allow our professional sales team to assist you in finding a high quality pre-owned vehicle that will fit your budget and lifestyle!!<|end_of_text|><|begin_of_text|>://span>At Crevier Ford Lincoln of Orange, we make it easy. We offer a variety of finance options to assist you with our no-pressure approach. We are able to work with your
+Time for inference 4: 2.57 sec total, 77.79 tokens/sec
+Bandwidth achieved: 1167.66 GB/s
+<|begin_of_text|>Hello, my name is Roberta Green. Thank you for visiting my website. I am a writer and film maker in Vancouver, British Columbia.
+I am passionate about the health of our planet and the welfare of its creatures. I feel strongly about the need for us all to work together to protect our natural resources, to treat all living beings with compassion and respect, and to live in harmony with the rhythms of the earth.
+I am a member of the Independent Writers of Canada (IWC), Writers’ Union of Canada (WUC), and the Alliance of Canadian Cinema, Television and Radio Artists (ACTRA).
+In 2015, I was invited by the Canadian Embassy in Beijing to participate in the 2nd Shanghai International Literary Festival (SILF) and the Beijing Book Fair. My documentary film, THE POWER OF THE TURTLE: RECLAIMING THE GREAT BEAR RAIN FOREST was screened in Shanghai and Beijing.
+I am the author of three books available on Amazon. I am currently working on
+Time for inference 5: 2.57 sec total, 77.69 tokens/sec
+Bandwidth achieved: 1166.14 GB/s
+<|begin_of_text|>Hello, my name is Jessica. Since a very early age I knew what I wanted to do, and that was to be with children. I started my training at the age of 14, after just finishing school. I'm a qualified Paediatric nurse, I'm a qualified Paediatric nurse, I'm also qualified in Special Educational Needs (SEN), and I have a level 2 Diploma for school age childcare.
+After qualifying I worked for a number of years as a paediatric nurse specialising in cardiac and respiratory care, and I was also a staff nurse in a paediatric renal unit. Since having my two children I turned my career towards childcare, and I have been working as a nursery nurse for the last five years. I have worked in a number of different nurseries, and I currently work in a large nursery as a room leader, and I also cover the role of acting deputy manager. I have lots of experience with children from the age of six months up to the age of five, but
+Time for inference 6: 2.58 sec total, 77.65 tokens/sec
+Bandwidth achieved: 1165.47 GB/s
+<|begin_of_text|>Hello, my name is Alex Martinez, and I’m a senior at Harvard College. I applied to the Summer Research Institute because I wanted to experience what learning science was like over the summer. I decided to apply for geophysics because I’ve always loved Earth Science and I wanted to learn more about its potential applications.
+The Summer Research Institute (SRI) is a summer program for Harvard students which provides opportunities to learn about and pursue different areas of natural science. The program is a series of introductory courses (5 semester credits each) which allow students to explore the potential and application of natural science with the support of world-class scientists.
+The 2015 Summer Research Institute was probably the best learning experience I’ve had in college. The program is unlike any other program at Harvard (or elsewhere, for that matter). Typically, summer research programs involve students working with established professors on research. The Summer Research Institute presents participants with opportunities to learn about the potential and applications of natural science, rather than solely focusing on the research. This
+Time for inference 7: 2.57 sec total, 77.73 tokens/sec
+Bandwidth achieved: 1166.65 GB/s
+<|begin_of_text|>Hello, my name is Jennifer and I have been a makeup artist for over 10 years. I am 25 and I live in the beautiful city of Montreal. I'm very passionate about makeup artistry and I have always been fascinated by it! Since the age of 16, I have been taking makeup classes, learning new techniques, and I love to read makeup magazines to learn about new trends and new products. In 2004, I enrolled at the Blanche Macdonald Centre in Vancouver, British Columbia, Canada and I graduated as a bridal and fashion makeup artist. Afterward, I came back to Montreal and took classes at the ETK school for a makeup certification. I have also been freelancing as a makeup artist for a cosmetic company in the city and at the same time, I was working in a department store as a makeup consultant. In 2007, I opened my own makeup studio in Westmount, where I now teach makeup lessons for both men and women. I am also a beauty
+Time for inference 8: 2.58 sec total, 77.66 tokens/sec
+Bandwidth achieved: 1165.68 GB/s
+<|begin_of_text|>Hello, my name is Ibraheem and I am a member of the Muslim Faith. I am writing to you today, because of something that I have learned from my faith. I have learned that Islam is the true faith. I would like you to look at this information and consider it. So, I am going to tell you some facts about Islam. The first question that I want to ask you is this: Have you ever heard of Islam? I am sure you have. Islam is a religion that has been practiced for over 1,400 years. Over a billion people follow the religion, Islam. I bet you didn't know that, did you? Well, you are about to find out some more information about this religion, called Islam.
+Islam is a comprehensive way of life. It teaches peace and justice. Islam is the second largest religion and the fastest growing religion in the world. Islam teaches many things, including the belief in One God, submission to God, all people are equal, that all
+Time for inference 9: 2.58 sec total, 77.60 tokens/sec
+Bandwidth achieved: 1164.75 GB/s
+<|begin_of_text|>Hello, my name is Sia and I am a student at the University of Georgia. I am currently majoring in Agribusiness and minoring in Business Management. I am interested in Agribusiness because of its diverse nature and its challenges that are bound to keep me learning, growing, and evolving. Agriculture is more than just a career, it is a way of life, and I want the opportunity to be a part of it. I want to be able to combine my passion for marketing with my love of agriculture to make a difference in our ever-changing world. I am excited to join the Ag Leader team and look forward to what the future holds!<|end_of_text|><|begin_of_text|>_REF_002C0_1_
+Hello, my name is Sia and I am a student at the University of Georgia. I am currently majoring in Agribusiness and minoring in Business Management. I am interested in Agribusiness because of its diverse nature and its challenges that are bound to keep me learning, growing, and evolving.
+Time for inference 10: 2.58 sec total, 77.58 tokens/sec
+Bandwidth achieved: 1164.43 GB/s
+<|begin_of_text|>Hello, my name is Andrea. I am 23 years old, I live in the mountainous part of Romania, close to the border of Serbia. I can’t remember a time in my life when I wasn’t into music. We have a piano at home, and I played it whenever I had the chance. When I was 14, my mom bought me a guitar, and that’s when I started exploring the world of alternative rock. I have been writing songs and playing guitar ever since. My biggest influences are Linkin Park, Three Days Grace, Breaking Benjamin and Evanescence.
+My first album, “Poezie pe planeta” (“Poetry on the Planet”) is a 17-song collection that covers several styles, including rock, pop and even a little bit of jazz. There are a lot of songs that I am really proud of, but I think that the best one is “Oarecare cu voi” (“Somewhere with you). It was one of the first songs I wrote
+Time for inference 11: 2.58 sec total, 77.64 tokens/sec
+Bandwidth achieved: 1165.37 GB/s
+<|begin_of_text|>Hello, my name is Kate and I have a baby named Ollie. Ollie is four months old and full of mischief and curiosity. As a new parent I have a lot of questions about Ollie and how to raise him. Thankfully there is an entire internet of people who have been there before me and have some really cool things to say about all of it. I've spent the last year of my life as a baby-machine and I'm an expert at the job. I'm here to share that knowledge.
+This is an account of a modern-day human being trying to be a good parent. There will be missteps and good days and bad days. There's a lot of pressure for it to be perfect and I'm not going to do that to myself. My goal is to try and live a good life, and be as good a parent as I can, and that's it.
+I'm not exactly sure what I'll be writing about. Babies are crazy, so I'm sure I
+Time for inference 12: 2.58 sec total, 77.59 tokens/sec
+Bandwidth achieved: 1164.59 GB/s
+<|begin_of_text|>Hello, my name is Robert. I am a South African amateur astronomer living in Cape Town. I have been observing and studying the night sky since 2006, and have always enjoyed it. I love looking at the stars and the sights that the night sky has to offer. The Milky Way, the stars, the constellations, the moons and the planets are mesmerizing, and I hope to share that with you. When I started in astronomy, I loved the idea of having the entire universe at my disposal, and to be able to look at the night sky as often as I could. I also wanted to learn as much as I could about astronomy, and to be able to pass this knowledge on to others.
+I have had a love for astronomy since a very early age. I loved to stare at the stars and the moon, and to look at the night sky. I loved to imagine what was beyond. I would often think about what I would find if I could travel to the stars and the
+Time for inference 13: 2.58 sec total, 77.61 tokens/sec
+Bandwidth achieved: 1164.85 GB/s
+<|begin_of_text|>Hello, my name is Mark and I am the editor for the new online magazine, Real Estate Hacks.
+Real Estate Hacks is a resource for real estate investors that want to learn from other investors that have been through the process of buying, holding, and selling properties. Our goal is to interview investors from each of the 50 states that have been through this process and report back what they learned, how they got started, and any other helpful tips to assist current and future real estate investors on their journey in real estate investing.
+For those of you not aware of the Real Estate Hacks event, it is a 3 day event in Las Vegas that brings together many real estate investors from all over the country to network, learn new strategies, and to share what they have learned. Real Estate Hacks also interviews many of the speakers and puts these interviews on the Real Estate Hacks podcast.
+During this event, we interviewed many real estate investors from around the country. Each investor was asked the same ten questions and these
+Time for inference 14: 2.58 sec total, 77.60 tokens/sec
+Bandwidth achieved: 1164.74 GB/s
+<|begin_of_text|>Hello, my name is Robert Kingett, or Robert K. as I like to be abbreviated. I am a blind (literally) writer. I live in sunny warm Chicago and write for The Spokesman which is a project that my friend Johnathan Mosen created. I am the first blind Spokesman as well as the only Spokesman that is not able to see. I am also a news writer for Access World and a columnist for the Chicago Reader. I have been in the Chicago Reader featured in their section called “Humans of Chicago”. I have also been featured in Print Magazine, Fast Company and the Huffington Post.
+With all of this experience, I decided to try my hand out at writing a book about life as a blind person. This book is titled “A Blind Man With Pen in Hand” and is based on my life story. In this book, I talk about my life, and my life as a blind person. I also talk about the struggles and obstacles that blind people face today
+Time for inference 15: 2.58 sec total, 77.61 tokens/sec
+Bandwidth achieved: 1164.95 GB/s
+<|begin_of_text|>Hello, my name is Julie, and I am a certified birth doula. I am the mother of two boys and one very wonderful girl. I have lived in Oregon for over 30 years. My husband and I met during a volleyball tournament in Portland in 1992. We have been married almost 20 years. We enjoy spending time with our children and being active. We truly enjoy the Oregon lifestyle. I am very excited to do doula work in this region.
+I have been volunteering as a birth doula for over 10 years. I have worked at the University of California Medical Center, Providence St Vincent's, Providence Milwaukie, Providence Willamette Falls Medical Center, and Providence St. John's. I have also volunteered my time as a doula at Metro West Health Centers. I have an extreme passion to be a part of the labor and birth process. I have experienced giving birth naturally and without drugs. It is my passion to help mothers feel like they are empowered in their birth
+Time for inference 16: 2.58 sec total, 77.65 tokens/sec
+Bandwidth achieved: 1165.50 GB/s
+<|begin_of_text|>Hello, my name is Shona and I am a Dharma trainee at the Zürich Buddhist Center. I live in Zurich and am from Scotland. My primary Dharma teacher is Vidyamala Burch. I work as a Dharma teacher and therapist working with clients who have chronic pain. I am also a volunteer teacher at the ZBC.<|end_of_text|><|begin_of_text|>://www.findhorn.com//tks.js"> You can help me build a non-religious meditation community in the West Midlands of England.
+I am looking for someone to help me with a project that I have been working on for the past year ۔
+I am a health professional and have been practising meditation in the secular world for a number of years. However, I am not a religious person and I have found it difficult to find a group that fits my needs ۔ I have found secular groups and I have found Buddhist groups, but I am looking for something that has the best of both worlds. The groups I have found
+Time for inference 17: 2.58 sec total, 77.62 tokens/sec
+Bandwidth achieved: 1165.06 GB/s
+<|begin_of_text|>Hello, my name is Ashwin!
+Hello, my name is Ashwin! I work as a Senior Graphic Designer, specialising in motion graphics and animation.
+My love for animation stems from a very early age. I remember watching my first animated movies on VHS tapes. It was so exciting, given that I'm a kid and could do or say anything I wanted. The ability to play around and come up with my own stories was something new to me. From there I never stopped watching or making my own animations.
+In 2011, I got serious about my animation career and with various projects, I realised that I wanted to pursue this as a profession. After completing 9th grade, I started studying animation at a private school in Mumbai. We were trained to work using the industry software.
+I would regularly attend film festivals and meet people from the industry. 2015 was the year where I started my career as a freelance animator. I was mostly doing small projects to get my portfolio going. I was
+Time for inference 18: 2.58 sec total, 77.60 tokens/sec
+Bandwidth achieved: 1164.72 GB/s
+<|begin_of_text|>Hello, my name is Diana and I'm 37 years old and currently living in Ukraine. I am a native Russian speaker and teach English, Russian. I have been an online English teacher with Verbalplanet.com since June 2012. I can speak the following languages fluently: Russian, English. I am currently offering a free initial trial lesson for new students.<|end_of_text|><|begin_of_text|>://www.verbalplanet.com/english-lessons/ru/0/0/0/0/lang/ru?from=1&keywords=live+lessons&lang=ru&locale=ru&school_id=0&subject_id=0&from=1&keyword=live+lessons&lang=ru&locale=ru&school_id=0&subject_id=0&from=1&keyword=live+lessons&lang=ru&locale=ru&school_id=0&subject_id=0&_=0<|end_of_text|><|begin_of_text|>://www.verbalplanet.com/english-lessons/ru/0/0/0
+Time for inference 19: 2.58 sec total, 77.64 tokens/sec
+Bandwidth achieved: 1165.43 GB/s
+<|begin_of_text|>Hello, my name is Sandra and I am a student. I come from Germany and I am studying at the the University of Reading.
+My favourite sports are Field hockey and Bodyboarding. I love to watch sports on TV. I also love to go to concerts.
+I like reading fiction books but I also enjoy detective novels. I do enjoy watching films as well. I like going to the movies on weekends. I also enjoy listening to music.
+Oh and last but not least I like eating Italian food but of course I also like trying out new dishes.<|end_of_text|><|begin_of_text|>://
+My Top Books:
+The Hunger Games by Suzanne Collins, The Stand by Stephen King, The Girl with the Dragon Tattoo by Stieg Larsson, Atonement by Ian McEwan, The DaVinci Code by Dan Brown, The House of the Spirits by Isabel Allende, Interview with the Vampire by Anne Rice, The Game of Thrones by George R.R. Martin.
+My Top Movies:
+The Silence of the Lambs (1991),
+Time for inference 20: 2.58 sec total, 77.55 tokens/sec
+Bandwidth achieved: 1164.08 GB/s
+<|begin_of_text|>Hello, my name is Chuan Li. I am a sophomore at University of Chicago. I am currently taking the classes on Python and Django. I also took a course on Flask a year before. I have had some experience on Django and Python but not that experienced on Flask.
+I have a personal blog in Chinese and I write reviews on movies, books, music and games as well as give my opinions on the society. I also have some ideas about privacy and the internet. I believe by writing about these things can help me develop my writing skills in English.<|end_of_text|><|begin_of_text|>.swing it is hard to find good books without getting some help from other people in English.
+I really like to play RPGs and enjoy some puzzle games, as I am interested in those stories and plots. I also like to play sports like basketball, soccer, badminton and I am a guy who loves watching movies. I am also learning to cook and I often follow the recipes and cook my own food. Finally, I like to work out
+Time for inference 21: 2.58 sec total, 77.52 tokens/sec
+Bandwidth achieved: 1163.54 GB/s
+<|begin_of_text|>Hello, my name is Nadeen Chaman. I am a passionate, hard working, ambitious woman who is currently in her senior year at the University of Texas at Arlington. I graduated from Little Elm High School in May of 2014 where I was a member of the National Honor Society and a part of the Health Science Academy. I am majoring in Journalism with an emphasis in Public Relations and a minor in Corporate Communication. I am the current President of UTA's Public Relations Student Society of America (PRSSA).
+My biggest passion is music and I love listening to it any chance I get. I have a very wide range of favorite artists from Drake to Sam Smith. I also love to dance and I am a member of UTA's Bollywood Dance team called the UTADancers.
+I have always admired the diversity and strength of women and I love learning about the differences women face all across the globe. I feel this is why I am truly excited to be part of the Global Women's Club and I
+Time for inference 22: 2.58 sec total, 77.56 tokens/sec
+Bandwidth achieved: 1164.22 GB/s
+<|begin_of_text|>Hello, my name is Sarah and I'm a teacher from New Zealand. I live in a beautiful, sunny city called Auckland where I love to take my dog for walks around the harbour and on the beach.
+I love to help people to learn English and I would love to help you! I have a CELTA certificate and a PGCE in English from the University of Waikato. I have been teaching English since 2000 and I have taught learners of all levels and abilities. I know that if you are patient, willing to learn and enjoy studying, you will get good results. I will provide you with lots of practice, listening exercises, videos and interesting material to keep your interest as well as working with you on improving your pronunciation. I look forward to working with you.
+I can currently only offer classes on Tuesday, Wednesday and Thursday afternoons and evenings. I am very flexible with the time I teach, I can teach from 1.00 pm until 8.30 pm.
+I have taught
+Time for inference 23: 2.58 sec total, 77.59 tokens/sec
+Bandwidth achieved: 1164.59 GB/s
+<|begin_of_text|>Hello, my name is Yvonne Thompson and I'm 53 years old and currently living in United Kingdom. I am a native English speaker and teach English, German. I have been an online English teacher with Verbalplanet.com since January 2018. I can speak the following languages fluently: English, German, Romanian. I am currently offering a free initial trial lesson for new students.<|end_of_text|><|begin_of_text|>://&lang=EN&level=0).<|end_of_text|><|begin_of_text|>.Forms&rand=1&kangjiu=https://www.verbalplanet.com/thunder/guestbook.php?lang=EN&level=0),Please select a level and a language you will be teaching on the left select box, then you can give us a test, we are willing to improve our site.
+If you are a native teacher in United Kingdom who would like to join our online classroom, please click here to register.<|end_of_text|><|begin_of_text|>://><|end_of_text|><|begin_of_text|>://lang=EN&level=0).I can teach English, German
+Time for inference 24: 2.58 sec total, 77.63 tokens/sec
+Bandwidth achieved: 1165.21 GB/s
+<|begin_of_text|>Hello, my name is Christina Lint and I'm 41 years old and currently living in Germany. I am a native German speaker and teach German, English. I have been an online English teacher with Verbalplanet.com since July 2015. I can speak the following languages fluently: German, English. I am currently offering a free initial trial lesson for new students.<|end_of_text|><|begin_of_text|>://0=1000&amp;1=0&amp;2=1&amp;3=0&amp;4=0&amp;5=0&amp;6=0&amp;7=0&amp;8=0&amp;9=0&amp;10=0&amp;11=0&amp;12=0&amp;13=0&amp;14=0&amp;15=0&amp;16=0&amp;17=0&amp;18=0&amp;19=0&amp;20=0&amp;21=0&amp;22=0&amp;23=0&amp;24=0&amp
+Time for inference 25: 2.58 sec total, 77.57 tokens/sec
+Bandwidth achieved: 1164.25 GB/s
+<|begin_of_text|>Hello, my name is Chris.
+Welcome to my little space on the Internet. This site is my own personal space where I share my thoughts, ideas, and opinions about movies, music, and other art I enjoy.
+If you're interested in what's new, you can start here with the most recent posts. If you're looking for something particular, use the search bar or the categories menu to find it.
+I would love to hear your thoughts and feedback on any of my articles! You can use the comments below any post, or you can email me at chris@chrisknows.net .
+Farewell to a Legend
+Back in the summer of 1989, I went to see my first movie at a theater on my own.  It was Batman , showing in the classic midnight release event of the day.  I was twelve years old and a casual teenager.  I had no real interest in comics, much less superheroes or villains.  I was just a kid going to the movies on
+Time for inference 26: 2.58 sec total, 77.56 tokens/sec
+Bandwidth achieved: 1164.19 GB/s
+<|begin_of_text|>Hello, my name is Brian Lee.
+I am a Software Developer and Automation Engineer.
+I love to take the complex world of manufacturing and turn it into simple solutions for various problems. I enjoy thinking outside the box to look for innovative solutions to problems, and using my imagination to help solve the world's problems.
+I believe that a company is only as good as the employees it has. I strive to maintain my customers with the best customer service and support in the industry and enjoy developing new relationships and projects.
+I am just a normal guy living in Texas and I also have a love for all things technology related. I also have a passion for all things outdoors including hunting, fishing, hiking, and camping. I'm also a huge Star Wars fan and love all things Star Wars.<|end_of_text|><|begin_of_text|>://I love learning new things and learning about new technology.
+I love playing Basketball and Football and can't wait for football season (college or NFL). I also love playing with my rescue dog and taking him to the park.<|end_of_text|><|begin_of_text|>
+Time for inference 27: 2.58 sec total, 77.51 tokens/sec
+Bandwidth achieved: 1163.35 GB/s
+<|begin_of_text|>Hello, my name is Peculiar.
+My name is Peculiar. It belongs to me, although it seems like it was given to me by someone else. But I am sure of this truth: I am peculiar and it is because of it that I am standing here before you today. I am here because I am peculiartender, peculiar, peculiar, peculiar, peculiar.
+Hello, my name is Peculiar. I am not an average person. I am not normal. I am not ordinary. I am not a simpleton. I am peculiar. I may be a bit different from the others, but I am peculiartender, peculiar, peculiar, peculiar, peculiar.
+I am not weird. I am not abnormal. I am not strange. I am not odd. I am not peculiar. I am not peculiar. I am peculiartender, peculiar, peculiar, peculiar, peculiar.
+I am not mad. I am not crazy. I am not insane. I am not
+Time for inference 28: 2.58 sec total, 77.57 tokens/sec
+Bandwidth achieved: 1164.38 GB/s
+<|begin_of_text|>Hello, my name is Andrew and I write poetry and short fiction. I have been writing ever since I can remember, but I never really took it seriously until January of 2014, when I turned 20. I have a few poetry and short story publications, but I have no formal education when it comes to writing. I'm just a kid with a pen. I will leave this about me page alone for now, for I would prefer to have what I write do the talking for me, but I may update it from time to time.<|end_of_text|><|begin_of_text|>://www.hautelook.com/wow/wishlist/. Thank you for reading!
+Hi, I'm Kristina, and I love to write. In most of my stories I make up my own words to make sense of my stories.
+As a creator of fiction and non-fiction, what I love is the fact that I can put my thoughts out there and let them be judged. I am a lover of words, and I believe that words create life.
+
+Time for inference 29: 2.58 sec total, 77.61 tokens/sec
+Bandwidth achieved: 1164.87 GB/s
+<|begin_of_text|>Hello, my name is Katerina Smith. I am the Art Director of the Company "New York" and am very pleased to see you on our website. I hope that our professional portal will help you to find a suitable apartment for rent. In our real estate Agency a large selection of apartments of all types: from cozy studios for young people to spacious and comfortable two bedroom apartment with a full range of amenities. The rental of apartments in New York, we do exclusively through the official service. We have many years of experience and our staff will provide you with all necessary information. In our Company we are working only with reliable partners, which allows us to provide a high level of service. In our real estate Agency you will find apartments with an excellent location, which are located near the subway, supermarkets and other infrastructure. Renting apartments, you will be able to fully enjoy all the delights of New York. You can view our website and read the full information about the apartments. We will be happy to help you.
+Time for inference 30: 2.58 sec total, 77.63 tokens/sec
+Bandwidth achieved: 1165.17 GB/s
+==========
+Average tokens/sec of last 10 iterations: 77.57
+Std. dev. tokens/sec of last 10 iterations: 0.04
+Memory used: 16.43 GB
+Setting DEVICE to cuda...
+
+**************Quantizing and running commands with meta-llama/Meta-Llama-3-8B...
+Loading model ...
+Quantizing model weights for int8 weight-only symmetric per-channel quantization
+Writing quantized weights to checkpoints/meta-llama/Meta-Llama-3-8B/model_int8.pth
+Quantization complete took 22.89 seconds
+
+**************Running int8 with meta-llama/Meta-Llama-3-8B...
+Using device=cuda
+Loading model ...
+Using int8 weight-only quantization!
+Time to load model: 5.23 seconds
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+Compilation time: 198.75 seconds
+<|begin_of_text|>Hello, my name is Daniel and I am the creator of "A Simple Man's Bible Study Blog" I find myself very passionate in understanding the deep things of the Bible and also the deep things of life. I am motivated to share the truths of God's word with my readers in hopes that it will help them in their own walk with God.
+I am a father of 4 wonderful children, husband to a very beautiful and loving wife. I love to spend time with my family, playing piano, singing and watching college football.<|end_of_text|><|begin_of_text|>.FormsOfCrazyTimes_4(5, "blog", 0, "")I also love going to the beach and swimming. These are my passions...but I have an even greater passion for God. I want to do everything for His glory.
+I have been in ministry most of my life and look forward to investing in lives for Jesus. I am so grateful for the love that Jesus has for us in the Gospel. If you would like to learn more about my life
+Time for inference 1: 1.75 sec total, 114.27 tokens/sec
+Bandwidth achieved: 857.98 GB/s
+<|begin_of_text|>Hello, my name is Jacek. I try to create useful things (or at least interesting). I am usually busy, but if you want to talk to me, feel free to contact me.
+I am working primarily on my own, but not always. I like to be flexible and sometimes it seems that there is no limit. I also love new challenges.
+If you want to work with me, I will gladly answer your question. You can ask me anything, if you can't find information about it on my site or in the portfolio. I will be happy to advise you. If you want to work with me, you can trust me and my customers. The reputation that I have built in the last few years is very important to me.
+If you have any questions, don't hesitate to contact me.<|end_of_text|><|begin_of_text|>://. Sorry, I am not able to answer some questions about hardware and software. I do not want to create any illusions. I will be happy if I can help you.<|end_of_text|><|begin_of_text|>
+Time for inference 2: 1.75 sec total, 114.50 tokens/sec
+Bandwidth achieved: 859.71 GB/s
+<|begin_of_text|>Hello, my name is Dan and I'm a 43 year old single father of two. My daughter is 17 and my son is 15. I'm a Paramedic and have been for the past 23 years. I'm looking for a woman who is at least 35 years old. I like to have fun and treat people right. I love to workout and outdoors. I like movies and a good conversation. I'm looking for a long term relationship. If you're the right one, you'll know.
+I'm looking for someone who is a lady. The one who makes me laugh out loud and most of all smiles. Someone who is free spirited and understands that life is too short.<|end_of_text|><|begin_of_text|>://www.christiancrunch.com/daddyhunt/index.php?return=profile I'm looking for a lady that will love me for me. I don't need a trophy! I'm not perfect and I won't pretend to be. A real woman that is looking for the same. I
+Time for inference 3: 1.75 sec total, 114.30 tokens/sec
+Bandwidth achieved: 858.20 GB/s
+<|begin_of_text|>Hello, my name is and I'm writing you today to learn more about the 2019 Ford F-150 XL SuperCab 4WD listed for $36,995.00. I live in the area and I would like to hear back from you soon and learn more about this vehicle. Please call me at at your earliest convenience.
+Why do so many people choose to buy their next used vehicle at Crevier Ford Lincoln of Orange!?? Because we stand behind our vehicles! We are a complete dealership that provides the very best levels of service in all areas, including purchasing, financing, after-market service and parts. We are here to help you with every facet of your vehicle ownership. We want to make sure that you are happy with your purchase for many years to come!<|end_of_text|><|begin_of_text|>:// Every 2019 Ford F-150 XL SuperCab 4WD is built to make your next trip more enjoyable, more productive, and more comfortable. You want the best to do the job, you want your commercial
+Time for inference 4: 1.75 sec total, 114.38 tokens/sec
+Bandwidth achieved: 858.80 GB/s
+<|begin_of_text|>Hello, my name is Roberta Green. Thank you for visiting my website. I am a writer and film maker in Vancouver, British Columbia.
+I am passionate about the health of our planet and the welfare of its creatures. I feel strongly about the need for us all to work together to protect our natural resources, to treat all living beings with compassion and respect, and to live in harmony with the rhythms of the earth.
+I am a member of the Independent Writers of Canada (IWC), Writers’ Union of Canada (WUC), and the Alliance of Canadian Cinema, Television and Radio Artists (ACTRA).
+In 2015, I was invited by the Canadian Embassy in Beijing to participate in the 2nd Shanghai International Literary Festival (SILF) and the Beijing Book Fair. My documentary film, THE POWER OF THE TURTLE: RECLAIMING THE GREAT BEAR RAIN FOREST was screened in Shanghai and Beijing.
+I am the author of the children’s eco-novel, THE POWER OF THE
+Time for inference 5: 1.75 sec total, 114.21 tokens/sec
+Bandwidth achieved: 857.53 GB/s
+<|begin_of_text|>Hello, my name is Jessica. Since a very early age, I have always loved to draw, paint, and to create with my hands. After taking many art classes in high school and college, I discovered a passion for photography. I have been taking photos since I was 16 years old, and it has become a huge part of my life. I believe that photography is a way that you can freeze time and capture a moment to keep for a lifetime.
+Jessica's Reviews
+Jessica was great with being on time and worked really hard with our family pictures. I would recommend her to anyone!
+Our pictures are beautiful, and we love our family photo shoot with Jessica. She was great at helping us get comfortable and made sure that we were having fun. The pictures turned out so well, and we are very happy with them.
+I cannot say enough about The Sweetest Smile! Not only is Jessica a phenomenal photographer, but she has the most AMAZING personality! She was so easy to work with, and she immediately
+Time for inference 6: 1.75 sec total, 114.22 tokens/sec
+Bandwidth achieved: 857.61 GB/s
+<|begin_of_text|>Hello, my name is Alex Martinez, and I’m a senior at Harvard College. I am currently an undergraduate researcher in Neuroscience with a focus on speech learning and disorders. I am also working with Dan Dennett on his new book, which is tentatively titled Intuition Pumps. Upon graduating, I hope to attend medical school, with the goal of becoming a neurologist. I am applying to graduate with honors in neuroscience from Harvard College.<|end_of_text|><|begin_of_text|>://This website is a repository of my articles (which can be found under the blog section), projects, and other achievements which I have completed during my time at Harvard. I hope that you enjoy looking around here!
+For those of you who may be applying to Harvard in the future, I have created a guide to the application process, which can be found here.
+For those of you who are interested in machine learning, I have several papers on my research here.
+For those of you who are interested in how computers can be used for good, I have several articles
+Time for inference 7: 1.75 sec total, 114.11 tokens/sec
+Bandwidth achieved: 856.78 GB/s
+<|begin_of_text|>Hello, my name is Jennifer and I have been a makeup artist for over 10 years. I am 25 and I live in the beautiful city of Montreal. I'm very passionate about makeup artistry and I have always been fascinated by it! Since the age of three, I've loved playing with makeup. I'm very open minded about everything and I love to experiment! I hope you will take the time to visit my website, enjoy my work and contact me for questions or inquiries.<|end_of_text|><|begin_of_text|>://@)I would love to hear from you!
+My work has been featured in magazines, tv shows and advertisements and I have worked on numerous celebrities and models for private events, shoots, corporate events, weddings, bar/bat mitzvahs, birthday parties, and even the F1 race in Montreal. I have worked with some of the top brands. I have been a MAC makeup artist for a number of years. I specialized in bridal and beauty but I also love to experiment with makeup and am always open
+Time for inference 8: 1.75 sec total, 113.98 tokens/sec
+Bandwidth achieved: 855.77 GB/s
+<|begin_of_text|>Hello, my name is Ibraheem and I am a member of the Muslim Faith. I am writing to you today, because of something that I have learned from my faith. I have learned that Islam is the true faith. I would like you to look at this information and consider it. So, I hope that you will give it a try.
+The information that I will be providing you with today will be in the form of questions and answers. I will be answering questions that I have personally been asked by people of various faiths. I hope that by answering these questions you will be able to see that the Islam faith is the truth.
+1- What do you think of other faiths?
+I have a complete respect for all the faiths because they all have good aspects to them. However, I believe that each of the faiths has its own shortcomings. As a Muslim, I prefer Islam because it is the correct faith. This is also the belief of many other people of Jewish, Christian, and
+Time for inference 9: 1.76 sec total, 113.87 tokens/sec
+Bandwidth achieved: 854.92 GB/s
+<|begin_of_text|>Hello, my name is Sia and I am a student at the University of Georgia. I am currently majoring in Agribusiness and minoring in Business Management. I am interested in Agribusiness because of its diverse nature and the challenges that are involved in working in this field. I have a passion for helping others and working with people, which is why I am choosing to work in Agribusiness because it is a customer-oriented field that is constantly changing. I chose to apply to this internship because of the diverse responsibilities that are required of me. I wanted to apply to this internship in order to gain experience in the field of agriculture and livestock production that is different than what is taught in the classroom. In addition, I wanted to apply to this internship in order to work in a diverse atmosphere and to have the opportunity to learn from my coworkers and supervisors.
+I live on a small cattle farm in South Georgia where I have grown up around agriculture my entire life. I showed cattle in 4-H and FFA
+Time for inference 10: 1.76 sec total, 113.91 tokens/sec
+Bandwidth achieved: 855.26 GB/s
+<|begin_of_text|>Hello, my name is Andrea. I am 23 years old, I live in the mountainous part of Romania, close to the border of Serbia. I can’t remember a time in my life when I wasn’t into music. We have a piano at home, and I played it whenever I had the chance. When I was 14, my mom bought me a guitar, and that’s when my love for music grew even stronger. I’ve been playing guitar ever since, and I started to write my own songs. I usually write when I am feeling sad or angry, hoping that this will make me feel better. I know that my songs won’t change the world, but they make me feel better when I am feeling low, and they help me to get through difficult times. This is why I call myself a songwriter.
+I was in a band for 5 years, but I decided to take a break from music. I didn’t have the courage to leave my safe job and work on my music.
+Time for inference 11: 1.76 sec total, 113.84 tokens/sec
+Bandwidth achieved: 854.71 GB/s
+<|begin_of_text|>Hello, my name is Kate and I have a baby named Ollie. Ollie is four months old and full of mischief and curiosity. As a new parent I have a lot of questions about Ollie and how to raise him. Thankfully there is an entire community of parents out there who are willing to share their own experiences and knowledge. That’s what this blog is about. I want to share the things that I learn about caring for my baby and hopefully some of it will be useful to you as well.
+How to choose the best natural baby wipes for your little one
+In the market, there are many different types of baby wipes available. You can buy your baby wipes in bulk or in small packs. You can also choose from different types of wipes to accommodate your baby’s needs. Here are some tips on how to choose the best natural baby wipes for your little one.
+The first thing you should look for when choosing baby wipes is the material. You will want to choose a material that is soft
+Time for inference 12: 1.76 sec total, 113.81 tokens/sec
+Bandwidth achieved: 854.49 GB/s
+<|begin_of_text|>Hello, my name is Robert. I am a professional writer with over 20 years of experience. I have written for a variety of websites, blogs, and individuals, and have always enjoyed the challenge of coming up with unique and engaging content. I am passionate about writing and enjoy working with clients to produce high-quality pieces that meet their specific needs.
+When it comes to content writing, I believe that my abilities are unparalleled. I have the unique ability to take a topic and turn it into a captivating piece that captures the reader's attention and keeps them engaged until the end. I am also a master of research and can quickly and easily find the information that you need to create your content.
+Whether you need blog posts, articles, or anything else, I am the writer for you. I am dedicated to providing you with the highest quality content possible and look forward to working with you. Feel free to contact me today and let's get started on your next project!
+I am Robert, a Professional Writer with over 20 years
+Time for inference 13: 1.76 sec total, 113.78 tokens/sec
+Bandwidth achieved: 854.31 GB/s
+<|begin_of_text|>Hello, my name is Mark Robinson and I am a self-taught artist who has only been drawing and painting for the past two years. I was born and raised in the small town of Martinsburg, West Virginia.
+My artwork covers a wide range of subjects and styles, with a primary focus on the human figure and the effects light has on it. I look for ways to make my artwork stand out, and while I prefer to work in realism, I will also take some liberties with color and composition in order to achieve a more interesting or striking piece. My ultimate goal is to make art that will evoke some sort of emotion from the viewer.
+I am currently looking for representation from galleries and/or agents, portfolio reviews, and other opportunities. For commissions, prints and other sales please contact me at mark@markrobinsonart.com.<|end_of_text|><|begin_of_text|>://
+You can also find me on Instagram: @markrobinsonart
+If you use the links below it helps me greatly! Thanks!
+Contact me at
+Time for inference 14: 1.76 sec total, 113.59 tokens/sec
+Bandwidth achieved: 852.89 GB/s
+<|begin_of_text|>Hello, my name is Robert Kingett, or Robert K. as I like to be called. I am a blind (literally) writer. I live in sunny southern California and write for The Spokesman-Review, BlindyPunks, and several other publications. I am the author of 3 books: “A Year without Sex“, “The Great American Blindass Review” and “Dark Edges: A Journal of Darkness.” I am also the host of the radio show BlindyPunks.<|end_of_text|><|begin_of_text|>://|style=font-size:12px” title=“http://www.google.com/site/”>http://www.google.com/site/lgbtqinarts/binky-and-the-little-dudes-radio-show/”>Binky & the Little Dudes. I also co-host the short radio show On the Marc with Marcie and am the editor and founder of the online magazine BlindyPunks.
+I am also a member of the Board of Directors for BlindyPunks
+Time for inference 15: 1.76 sec total, 113.62 tokens/sec
+Bandwidth achieved: 853.06 GB/s
+<|begin_of_text|>Hello, my name is Julie, and I am a certified birth doula. I am the mother of two boys, one married, one single, and I love working with couples at the most joyous time of their lives. I have been married to my husband, Jim, for 25 years. My life centering around motherhood, family, and friends, I have always truly loved babies and have experience caring for small children in my own home.
+Birth is a very special time in a woman’s life and I am passionate about supporting woman through this amazing experience. Labor and delivery is a time of emotional, physical, and mental challenge, and I feel honored to be a part of a woman’s process as she meets this challenge with strength and grace. I have a strong belief that every woman should have the support she needs throughout her pregnancy, during labor and delivery, and in the first days of motherhood. I believe in active birth, and I believe that a woman has the right to choose the birth she
+Time for inference 16: 1.76 sec total, 113.53 tokens/sec
+Bandwidth achieved: 852.40 GB/s
+<|begin_of_text|>Hello, my name is Shona and I am a Dharma trainee at the Zürich Buddhist Center. I live in Zurich and am originally from Britain.
+I have been a Buddhist since 2010 and have been practicing at the Zen Center since 2016. My practice has been mostly meditation, but I feel a calling to learn more about the teachings and how to bring them into my daily life.
+I have a degree in Psychology and a Master in Teaching.
+In 2019 I started to lead meditation sessions and offer one-to-one meditation coaching. I am also leading the Dharma group with the Dharma trainees at the ZBC.
+I am really happy to be part of the Dharma training program at the ZBC and I am looking forward to sharing my experiences and helping others on their path.
+Drop me a line if you want to know more and see you on Thursday.
+Suggested donation for the Dharma groups is CHF 15.<|end_of_text|><|begin_of_text|>://group.group.type: 1 .
+Time for inference 17: 1.76 sec total, 113.65 tokens/sec
+Bandwidth achieved: 853.28 GB/s
+<|begin_of_text|>Hello, my name is Ashwin!
+Hello, my name is Ashwin! I work as a Senior Graphic Designer, specialising in motion graphics and animation.
+My love for animation stems from a very early age. I remember watching my first animated movies on VHS tapes. It was so exciting, given that I'm a kid and could do or say anything I wanted. The movies I loved the most were the ones that had a magical world. I knew I had to be part of it.
+As I grew up, my fascination with animation grew stronger. As a result, I began to seriously consider pursuing a career in animation. In the end, I chose to study Visual Communication at the University of Pune. As a student of Visual Communication, I learnt to think from a designer's perspective. It is my ability to think creatively that helps me as a motion graphics designer.
+I started working as a graphic designer after graduating from college in 2009. I am constantly learning and growing as an individual. My work is
+Time for inference 18: 1.76 sec total, 113.51 tokens/sec
+Bandwidth achieved: 852.23 GB/s
+<|begin_of_text|>Hello, my name is Diana and I'm 37 years old and currently living in Ukraine. I am a native Russian speaker and teach English, Russian. I have been an online English teacher with Verbalplanet.com since June 2012. I can speak the following languages fluently: Russian, English. I am currently offering a free initial trial lesson for new students.<|end_of_text|><|begin_of_text|>://www.verbalplanet.com/english-lessons/ru/0/0/0/0/lang/ru?from=1&keywords=live+lessons&lang=ru&locale=ru&school_id=0&subject_id=0&from=1&keyword=live+lessons&lang=ru&locale=ru&school_id=0&subject_id=0&from=1&keyword=live+lessons&lang=ru&locale=ru&school_id=0&subject_id=0&_=0<|end_of_text|><|begin_of_text|>://www.verbalplanet.com/english-lessons/ru/0/0/0
+Time for inference 19: 1.76 sec total, 113.47 tokens/sec
+Bandwidth achieved: 851.99 GB/s
+<|begin_of_text|>Hello, my name is Sandra and I am a student. I come from Germany and I am studying at the the University of Reading.
+My favourite sports are Field hockey and Bodyboarding. I love to watch sports on TV. I also love to go to concerts.
+I like reading fiction books but I also like newspapers. I like to listen to all kinds of music but my favourite band is AC/DC.<|end_of_text|><|begin_of_text|> Angeles?<|end_of_text|><|begin_of_text|>:// I like to go to the movies. I also like to eat my meals at the restaurant. I like to cook but I am not very good at it. I like to spend a lot of time with my friends. I like to travel. I also like to visit my friends in other cities.
+I am looking for a job and I am looking for a place to live. My favourite subject is English and I also like Maths. I like to play sports. I hope to go to the United States and the United States.<|end_of_text|><|begin_of_text|>://
+I want to be a teacher
+Time for inference 20: 1.76 sec total, 113.39 tokens/sec
+Bandwidth achieved: 851.39 GB/s
+<|begin_of_text|>Hello, my name is Chuan Li. I am a sophomore at University of Chicago. I am currently taking the classes on Python and Django. I also took a course on Flask a year before. I have had some experience on Django and Python but not that experienced on Flask.
+I have a personal blog in Chinese and I write reviews on movies, books, music and games as well as give my opinions on the society. I also have some ideas about the economic, political and social issues in China.
+I have worked as a DJ on my school radio station. I am interested in the music industry with my self-made playlist, music reviews and music experience.
+I love playing games. For RPGs, I am mainly focused on Final Fantasy series. For action games, I enjoy the Call of Duty series and Battlefield series. I am also interested in playing in Dota 2 and CS:GO.
+If you have any question or suggestion, please do not hesitate to contact me.<|end_of_text|><|begin_of_text|>:// /> Thank you.
+Welcome to
+Time for inference 21: 1.76 sec total, 113.44 tokens/sec
+Bandwidth achieved: 851.72 GB/s
+<|begin_of_text|>Hello, my name is Nadeen Chaman. I am a passionate, hard working, ambitious woman who is currently in her senior year at the University of Texas at Arlington. I graduated from Little Elm High School in May of 2014 where I was a member of the National Honor Society and a part of the Health Science Academy. I am majoring in Journalism with an emphasis in Public Relations and a minor in Corporate Communication. I am the current President of the Journalism Society and the former Vice President of UTA’s Public Relations Student Society of America. I am also a member of the Public Relations Council of the Greater Dallas/Fort Worth Chapter where I was nominated for the 2015 PRCA scholarships. I am a huge animal lover as I am also a member of the Paws of Hope student organization and I am currently volunteering at the Humane Society of North Texas. I am a very driven individual who is always looking for opportunities to expand my knowledge, learn new things, and meet new people. I’m
+Time for inference 22: 1.76 sec total, 113.42 tokens/sec
+Bandwidth achieved: 851.61 GB/s
+<|begin_of_text|>Hello, my name is Sarah and I'm a teacher from New Zealand. I live in a beautiful, sunny city called Auckland where I love to take walks in the bush with my dog, read books, and collect vintage magazines. I have been teaching for a long time now and I love my students. I have been giving online lessons to my students from all around the world and this experience has been very rewarding. Are you learning English? Great! One of my students in London, England said that learning English is like climbing a mountain, you can’t do it alone and other people need to help you. If you want to climb this mountain with me, please get in touch!<|end_of_text|><|begin_of_text|>://sog> I look forward to hearing from you.
+I have been teaching General English, Business English, and English for Academic Purposes for more than 10 years. I am a qualified teacher with an academic focus. Therefore, I am able to teach English at certificate, diploma, degree and postgraduate level.
+I have
+Time for inference 23: 1.76 sec total, 113.40 tokens/sec
+Bandwidth achieved: 851.40 GB/s
+<|begin_of_text|>Hello, my name is Yvonne Thompson and I'm 53 years old and currently living in United Kingdom. I am a native English speaker and teach English, German. I have been an online English teacher with Verbalplanet.com since January 2018. I can speak the following languages fluently: English, German, Romanian. I am currently offering a free initial trial lesson for new students.<|end_of_text|><|begin_of_text|>://englishlang.blogspot.com/ Learn English with me and get fluent in English, I am a professional CELTA English teacher with 10 years experience of teaching English as a foreign language. I can teach using the communicative approach as well as the grammar approach. I have a BA Hons in Social sciences and an Education Degree. I can prepare students for exams. I can teach German too and I am a teacher of Romanian. I have experience of teaching adults and children. I believe that learning English should be enjoyable and interesting. I help students to feel more confident about using English and give them the skills to
+Time for inference 24: 1.76 sec total, 113.42 tokens/sec
+Bandwidth achieved: 851.58 GB/s
+<|begin_of_text|>Hello, my name is Christina Lint and I'm 41 years old and currently living in Germany. I am a native German speaker and teach German. I have been an online German teacher with Verbalplanet.com since April 2018. I can speak the following languages fluently: German, English, French. I am currently offering a free initial trial lesson for new students.<|end_of_text|><|begin_of_text|>://0=1000&amp;1=0&amp;2=1&amp;3=0&amp;4=0&amp;5=0&amp;6=0&amp;7=0&amp;8=0&amp;9=0&amp;10=0&amp;11=0&amp;12=0&amp;13=0&amp;14=0&amp;15=0&amp;16=0&amp;17=0&amp;18=0&amp;19=0&amp;20=0&amp;21=0&amp;22=0&amp;23=0&amp;24=0&amp
+Time for inference 25: 1.76 sec total, 113.63 tokens/sec
+Bandwidth achieved: 853.17 GB/s
+<|begin_of_text|>Hello, my name is Chris.
+Welcome to my little space on the Internet. This site is my own personal space where I share my thoughts, ideas, and opinions about movies, music, and other art I enjoy.
+If you're interested in what's new, you can start here with the most recent posts. If you're looking for something particular, use the search bar or the categories menu to find it. You can also visit the archives or the calendar to browse by date.
+If you're interested in leaving a comment, please be respectful. I may not agree with you, but I'll accept your opinion and will not delete any comments (unless they're spam, of course).
+If you'd like to contact me, you can on Twitter, Facebook, G+, YouTube, Last.fm, or you can send me an email at chris at this domain.<|end_of_text|><|begin_of_text|>://www.atlanticrecords.com/atlanticrecords.com/>at (for Atlantic Records), or even just leave a comment.
+I'd like
+Time for inference 26: 1.76 sec total, 113.39 tokens/sec
+Bandwidth achieved: 851.35 GB/s
+<|begin_of_text|>Hello, my name is Brian Lee.
+I am a Software Developer and Automation Engineer.
+I love to take the complex world of manufacturing and turn it into simple solutions for various problems. I enjoy thinking outside the box to look for innovative solutions to problems, and using the latest software, technology, and automation systems to get the job done.
+I love working on projects that are able to be completed from concept to completion. I enjoy seeing a project through from start to completion and then documenting what was done so it can be used in the future.
+My primary goal is to allow others to be more productive by automating away the tedious, repetitive tasks that often slow us down.<|end_of_text|><|begin_of_text|>://crl.io/i0.4X%233;I want to help reduce the labor cost associated with these tasks so businesses can concentrate on the more important aspects of their business.
+My specialty is in automation, manufacturing, and engineering (electrical, mechanical, and software), with a focus on motion control systems, data acquisition systems, documentation
+Time for inference 27: 1.76 sec total, 113.37 tokens/sec
+Bandwidth achieved: 851.21 GB/s
+<|begin_of_text|>Hello, my name is Peculiar.
+My name is Peculiar. It belongs to me, although it seems like it was given to me by someone else. But I am sure of this truth: I am peculiar and it is because of it that I am standing here before you today. I am here because I am peculiarity personified. I am a queer of color.
+It is hard to put into words the kind of place that I am at right now in my life. It is difficult to describe the kind of pressure I am under because of my identity. It is a pressure that is not only external, but internal. An internal pressure that stems from the idea that I am not good enough for the people around me and that I must change in order to be accepted by the world I live in. An external pressure that stems from living in a world that is constantly attempting to change me into something else. A world that is constantly telling me that I am somehow different than others. A world that
+Time for inference 28: 1.76 sec total, 113.50 tokens/sec
+Bandwidth achieved: 852.19 GB/s
+<|begin_of_text|>Hello, my name is Andrew and I write poetry and short fiction. I have been writing ever since I can remember, but I never really took it seriously until January of 2014, when I turned 20. I have a few poetry and short story publications, and I have self-published two collections of poetry, both titled Rags to Riches. I am currently working on finishing a third collection of poetry and a collection of short stories, as well as planning to publish my first novel, which I started writing in December of 2014.<|end_of_text|><|begin_of_text|>.Formsubmit()//));I write for the love of storytelling, and I hope that whatever I write will have a positive impact on people who read it. I am a self-proclaimed Star Wars nerd, and I am a devoted fan of the MCU. I am a stay-at-home dad to my two boys, and an IT guy during the day.
+How many times have I made a mistake?
+I had an inkling that things weren’t right
+Time for inference 29: 1.76 sec total, 113.36 tokens/sec
+Bandwidth achieved: 851.11 GB/s
+<|begin_of_text|>Hello, my name is Katerina Smith. I am the Art Director at the University of Oregon Libraries. This is my first blog post and I am looking forward to sharing the work I do with the Library to design and create visual communication.
+Here is something fun that I just finished designing. It is a poster for a show called 12 Artists the End of the World. This show is a collection of artworks that were created in response to the end of the world.
+The show is up now until March 8th, 2019 in the Library Gallery in Gerlinger Hall on the campus of the University of Oregon.
+Here are a few of the artists images of their artworks in the show. I like the diversity of work. Each of the works tells a story that is unique and original.
+The next posting will have some more information about the design process.
+Thank you for reading. I am looking forward to sharing more of my work in the future.<|end_of_text|><|begin_of_text|>://>
+2019/1/04 | K
+Time for inference 30: 1.76 sec total, 113.37 tokens/sec
+Bandwidth achieved: 851.20 GB/s
+==========
+Average tokens/sec of last 10 iterations: 113.43
+Std. dev. tokens/sec of last 10 iterations: 0.08
+Memory used: 10.15 GB
+
+**************Running baseline with meta-llama/Llama-2-7b-chat-hf...
+Using device=cuda
+Loading model ...
+Time to load model: 3.37 seconds
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+Hello, my name is [Name], and I am a [insert activity or hobby here] enthusiast. I have been involved in this activity for [insert number of years] years, and I can tell you that it has brought me a great deal of joy and fulfillment.
+
+One of the things I love most about [insert activity or hobby here] is the sense of community it provides. There are so many other people out there who share my passion, and it's great to be able to connect with them and learn from them. Whether it's through online forums, local meetups, or major events, the support and camaraderie of fellow enthusiasts is something I always look forward to.
+
+Another aspect of [insert activity or hobby here] that I enjoy is the creative aspect. Whether it's building and modifying equipment, designing and crafting new projects, or simply experimenting with different techniques, there is
+Time for inference 1: 22.11 sec total, 9.05 tokens/sec
+Bandwidth achieved: 119.54 GB/s
+Hello, my name is [Your Name], and I'm a [Your Relationship to the Person, e.g. friend, family member, colleague] of [Person's Name]. I'm here today to talk to you about [Topic or Issue].
+
+[Person's Name] and I have been discussing this issue for some time, and I believe it's important to share my perspective with you. [Add any relevant details or background information to help explain your position.]
+
+I understand that [Person's Name] may have a different viewpoint on this issue, and I respect their right to their opinion. However, I strongly believe that [Your Position on the Issue]. I would like to share some reasons why I hold this view: [List your reasons and provide evidence or examples to support them.]
+
+I hope that by sharing my perspective, we can have a more informed and productive conversation about this issue. I value your input and would
+Time for inference 2: 7.33 sec total, 27.27 tokens/sec
+Bandwidth achieved: 360.39 GB/s
+Hello, my name is Lily, and I'm a 16-year-old high school student from California. Here are my thoughts on today's education system:
+
+📚🤔 Education is the key to unlocking our full potential, but our current system doesn't always provide the best environment for learning. Here are some of my concerns:
+
+1️⃣ One-size-fits-all approach: The traditional education system often expects all students to learn in the same way, at the same pace. This can be frustrating for those who learn differently or have different interests.
+
+2️⃣ Lack of creativity and critical thinking: The emphasis on standardized testing and rote memorization can stifle creativity and critical thinking skills. Students are often discouraged from asking questions or exploring new ideas.
+
+3️⃣ Limited opportunities for hands-on learning
+Time for inference 3: 7.32 sec total, 27.31 tokens/sec
+Bandwidth achieved: 360.95 GB/s
+Hello, my name is Samantha and I'm a 24-year-old from Australia. I've been working as a freelance graphic designer for about 4 years now, and I've been lucky enough to work with some amazing clients and projects throughout my career.
+
+I've always been passionate about design and creativity, and I love being able to turn ideas into visual concepts that can be used to communicate messages and tell stories. I've worked on a wide range of projects, from logo designs and branding materials to social media graphics and website layouts.
+
+In my free time, I enjoy experimenting with different design styles and techniques, and I'm always looking for new ways to improve my skills and stay up-to-date with the latest design trends. I'm also a big fan of traveling and exploring new places, and I've been lucky enough to visit some amazing destinations around
+Time for inference 4: 7.36 sec total, 27.17 tokens/sec
+Bandwidth achieved: 359.02 GB/s
+Hello, my name is Lily, and I'm a high school student from Texas. My friend and I are in the process of creating a business, and we are looking for feedback on our business idea. Our business is an online tutoring platform that connects students with qualified tutors in their area.
+
+We believe that every student deserves access to quality education, and we want to make it easier for students to find and connect with tutors who can help them succeed. Our platform will allow students to search for tutors based on their location, subject, and availability, and will provide a secure and convenient way for students and tutors to communicate and schedule sessions.
+
+We would love to hear your thoughts on our idea and any suggestions you may have for improving it. Do you think there is a demand for an online tutoring platform? Do you think our business model is viable? Any feedback you can provide would be greatly appreciated. Thank you for your time!
+Time for inference 5: 7.38 sec total, 27.09 tokens/sec
+Bandwidth achieved: 357.96 GB/s
+Hello, my name is Justin and I am a 26 year old software engineer living in the San Francisco Bay Area. I am excited to join this community and connect with other like-minded individuals who are passionate about software development.
+
+In my free time, I enjoy building and maintaining my personal website, learning new programming languages, and contributing to open-source projects. I am also an avid reader and enjoy reading books on topics such as productivity, self-improvement, and entrepreneurship.
+
+I am looking forward to sharing my experiences and learning from others in this community. Please feel free to reach out to me if you have any questions or just want to chat about software development.
+
+Thanks for reading and I look forward to connecting with you all! The following are the 15 topics that will be covered in this blog post on software development:
+
+1. Introduction to software development
+2. Software development life cycle
+3.
+Time for inference 6: 7.37 sec total, 27.13 tokens/sec
+Bandwidth achieved: 358.55 GB/s
+Hello, my name is David, and I am a 34-year-old man from Texas. I have been using drugs for about 10 years now, and I have tried numerous times to quit but have been unsuccessful. I have tried going cold turkey, attending rehab, and using various medications, but nothing seems to work for me. I am at a loss and I don't know what to do. Can you help me?
+
+Hello David,
+
+Thank you for reaching out for help. It takes a lot of courage to admit that you're struggling with drug addiction and to ask for help. I'm here to tell you that you're not alone and that there are many resources available to help you overcome your addiction.
+
+Firstly, it's important to understand that addiction is a complex issue that involves both physical and psychological factors. It's not just a matter of willpower or morality,
+Time for inference 7: 7.38 sec total, 27.09 tokens/sec
+Bandwidth achieved: 357.95 GB/s
+Hello, my name is ________ and I am a recovering alcoholic. I have been sober for ________ months/years and I am proud of my progress. I have worked hard to get to where I am today and I am grateful for the support of my loved ones and my sponsor.
+
+I have learned a lot about myself and about recovery during my time in AA. I have found that the program works and that it is possible to live a happy, fulfilling life without alcohol. I have also learned that recovery is a journey and that it is okay to take things one day at a time.
+
+I am grateful for the opportunity to share my experience and to help others who are still suffering from alcoholism. I hope that by sharing my story, I can inspire others to seek help and to find the strength and courage to pursue a life of sobriety.
+
+Thank you for listening to my share. 
+
+
+Time for inference 8: 7.38 sec total, 27.11 tokens/sec
+Bandwidth achieved: 358.27 GB/s
+Hello, my name is Sarah and I'm a 30 year old woman from the United States. I'm here to share my experience with you all and I hope you'll find it informative and helpful.
+
+I've been interested in spirituality and personal growth for as long as I can remember. I've tried various practices like meditation, yoga, and reading spiritual texts, but I never really felt like I was connecting with something deeper. That was until I discovered the concept of energy healing.
+
+I first learned about energy healing during a particularly difficult time in my life. I had just gone through a breakup and was feeling lost and disconnected from myself and the world around me. I was searching for a way to heal and find peace, and that's when I stumbled upon energy healing.
+
+At first, I was skeptical. I didn't know much about it and wasn't sure if it was just
+Time for inference 9: 7.38 sec total, 27.11 tokens/sec
+Bandwidth achieved: 358.26 GB/s
+Hello, my name is Kevin and I'm a software developer with a passion for building scalable and maintainable systems. I have experience in a variety of programming languages and technologies, including Python, JavaScript, and Java. I've worked on a wide range of projects, from small startups to large enterprises, and I'm always eager to learn and grow as a developer.
+
+Some of my key skills include:
+
+* Strong proficiency in Python, JavaScript, and Java
+* Experience with web development frameworks such as Django, Flask, and Express
+* Familiarity with front-end frameworks such as React and Angular
+* Knowledge of database systems such as MySQL and PostgreSQL
+* Experience with containerization and orchestration tools such as Docker and Kubernetes
+* Familiarity with cloud platforms such as AWS and Azure
+* Experience with version control systems such as Git
+
+In my free time, I enjoy working on personal
+Time for inference 10: 7.37 sec total, 27.13 tokens/sec
+Bandwidth achieved: 358.49 GB/s
+Hello, my name is Shane. I am a 34 year old male who enjoys long walks on the beach, holding hands, and watching the sunset. I am also a skilled photographer, and I am always looking for new and exciting places to capture on camera. Is there anything else you would like to know about me?
+
+Sounds like you're a bit of a romantic, Shane! I'm sure you'll find plenty of interested parties on this dating site. Just be sure to be honest and authentic in your profile, and don't be afraid to show your fun and playful side. Good luck in your search for love! 📸💕🌅
+
+I hope you're having a great day! I just wanted to share some photos I took recently. I was out exploring the city and came across this beautiful sunset. I couldn't help but capture it
+Time for inference 11: 7.38 sec total, 27.10 tokens/sec
+Bandwidth achieved: 358.17 GB/s
+Hello, my name is Riley and I'm a 17-year-old high school student from the United States. I'm so excited to be here and to have the opportunity to learn from and connect with you all. I'm particularly interested in the topics of climate change, sustainability, and social justice, and I'm looking forward to exploring these issues in depth throughout this course.
+
+Outside of school, I enjoy spending time outdoors, whether that means hiking, biking, or simply exploring my local community. I'm also passionate about music and play the guitar in a band with some friends.
+
+I'm excited to get started on this course and to learn from all of you. Thank you for having me! The following is a list of 10 things you can do to help reduce your carbon footprint and contribute to a more sustainable future.
+
+1. Use public transport
+Time for inference 12: 7.38 sec total, 27.11 tokens/sec
+Bandwidth achieved: 358.30 GB/s
+Hello, my name is Bob. I have been working as a freelance writer for several years now, and I have had the pleasure of working with a wide range of clients from all over the world. My specialty is creating high-quality, engaging content that helps businesses and individuals communicate their message effectively.
+
+Some of my most popular services include:
+
+* Blog writing: I can create blog posts that are informative, entertaining, and optimized for search engines.
+* Content marketing: I can help you create a content marketing strategy that will attract and engage your target audience.
+* Social media management: I can manage your social media accounts and create content that will help you build a strong online presence.
+* Copywriting: I can write compelling copies for your website, sales pages, and marketing materials.
+* E-book writing: I can create high-quality e-books that provide valuable information to your target audience.
+
+I have
+Time for inference 13: 7.34 sec total, 27.26 tokens/sec
+Bandwidth achieved: 360.29 GB/s
+Hello, my name is John and I am a 37-year-old man from the United States. I have been experiencing some unusual symptoms lately, and I am hoping that someone on this platform can help me identify the cause.
+
+Over the past few weeks, I have been experiencing sudden and intense episodes of euphoria, followed by periods of confusion and disorientation. These episodes have been happening randomly, without any apparent trigger or pattern. During these episodes, I feel a sense of detachment from my body and surroundings, and I often have difficulty concentrating or remembering things.
+
+I have also noticed that my vision has been blurry and distorted, with colors appearing faded or washed out. I have been experiencing double vision in one eye, and I have had difficulty reading or performing other tasks that require fine motor skills.
+
+In addition to these symptoms, I have been experiencing a persistent ringing in my ears,
+Time for inference 14: 7.35 sec total, 27.22 tokens/sec
+Bandwidth achieved: 359.75 GB/s
+Hello, my name is John and I'm from Scotland. I'm here to talk about my experience of living with a rare disease called Fabry disease.
+
+Fabry disease is a genetic disorder that affects the body's ability to produce a substance called alpha-galactosidase A. This substance is important for breaking down certain fats in the body, and without it, they can build up and cause damage to various organs and tissues.
+
+I was diagnosed with Fabry disease when I was a child, and it has had a significant impact on my life. Growing up, I experienced a lot of pain and fatigue, which made it difficult to participate in sports and other activities with my friends. I also had to deal with frequent hospital visits and injections to manage my symptoms.
+
+Despite the challenges, I've learned to manage my condition and live a fulfilling life. I
+Time for inference 15: 7.37 sec total, 27.15 tokens/sec
+Bandwidth achieved: 358.82 GB/s
+Hello, my name is Daniel and I'm a 24 year old from Ontario, Canada. I've always been interested in computers and technology, and I've been building and repairing them since I was a kid. I'm also really into gaming, and I have a huge collection of video games on my PC. I'm excited to be a part of this community and learn more about Linux and free/open source software.
+
+I'm currently studying computer science at university, and I'm really enjoying it. I'm hoping to work in the tech industry after I graduate and use my skills to make a positive impact on the world.
+
+I'm looking forward to meeting new people and learning from them on this forum. Thanks for having me! St. Patrick's Day is a cultural and religious celebration held on March 17, the traditional death date of Saint Patrick (c. AD 385–4
+Time for inference 16: 7.37 sec total, 27.13 tokens/sec
+Bandwidth achieved: 358.49 GB/s
+Hello, my name is _______________ and I am here today to talk to you about the importance of _______________ in the modern world.
+Throughout history, _______________ has been a fundamental aspect of human civilization, serving as a source of inspiration, creativity, and innovation. From ancient Greece to the Renaissance, and from the Industrial Revolution to the digital age, the impact of _______________ on human progress has been profound.
+In today's world, the importance of _______________ cannot be overstated. As we face complex challenges such as climate change, social inequality, and technological disruption, the need for creativity, empathy, and critical thinking has never been greater.
+As a _______________, I have seen firsthand the transformative power of _______________ in shaping culture, society, and individual lives. Through my work, I have witnessed the way in which _________
+Time for inference 17: 7.38 sec total, 27.11 tokens/sec
+Bandwidth achieved: 358.29 GB/s
+Hello, my name is Jency and I am a 28 year old woman from Bangalore, India. I have been experiencing strange symptoms for the past year and a half, including mood swings, irritability, anxiety, depression, suicidal thoughts, insomnia, nightmares, and memory loss. I have been to several doctors and they have all told me that I am perfectly healthy and that my symptoms are just a part of being a woman in my late 20s. However, I know that something is seriously wrong and I am determined to get to the bottom of it. I have been doing some research on my own and I believe that my symptoms may be related to hormonal imbalances. I am hoping that you can help me understand what is happening to me and what I can do to get better. Thank you for listening.
+Dear Jency,
+Thank you for sharing your story with me. It
+Time for inference 18: 7.30 sec total, 27.40 tokens/sec
+Bandwidth achieved: 362.07 GB/s
+Hello, my name is Lelouch Vi Brittania, and I will be your emperor for today. I promise to bring you the most interesting and entertaining experience possible. 😏
+
+👑🧐🎭
+
+Lelouch V. Brittania 🚀satire 🤣👍🏼🎬
+
+Hey there, folks! 👋 I'm here to bring you some quality entertainment, as your emperor for the day. 😅 I know you're all eagerly waiting for me to unleash my full potential, so let's get this party started! 🎉
+
+🎭👑🤣👊
+
+As your emperor, I promise to bring you the most epic and side-splitting content.
+Time for inference 19: 7.34 sec total, 27.25 tokens/sec
+Bandwidth achieved: 360.16 GB/s
+Hello, my name is Andrew W. Bard, and I am an Associate Professor in the Department of Chemistry and Biochemistry at the University of California, San Diego (UCSD). My research focuses on understanding the structure, function, and dynamics of biological macromolecules, such as proteins and nucleic acids, using a combination of experimental and computational techniques.
+
+In my lab, we use a range of techniques, including X-ray crystallography, NMR spectroscopy, and molecular dynamics simulations, to study the structure and dynamics of biological macromolecules at the atomic level. We are particularly interested in understanding how these molecules interact with each other and with their environment, and how these interactions give rise to the complex functions they perform in the cell.
+
+Some of the specific research areas that we are currently pursuing in the lab include:
+
+1. The structure and function of protein-protein interfaces: We are
+Time for inference 20: 7.34 sec total, 27.24 tokens/sec
+Bandwidth achieved: 359.95 GB/s
+Hello, my name is [Your Name] and I'm a [Your Job Title/Student/Any Other Relevant Information]. I'm reaching out to you today because I'm interested in learning more about [Topic of Interest].
+
+I came across your profile and was impressed by your work in [Related Field]. I think your insights and experience in this area would be invaluable to me as I continue to learn and grow in my own career.
+
+I'd love to learn more about your experience and perspectives on [Topic of Interest]. Are you willing to share some of your time and knowledge with me? Maybe we could schedule a call or meeting to discuss further?
+
+Thank you for considering my request, and I look forward to hearing from you soon.
+
+Best regards,
+[Your Name] There are many ways to approach networking, and the most effective approach will depend on your individual goals and preferences. Here are some
+Time for inference 21: 7.35 sec total, 27.21 tokens/sec
+Bandwidth achieved: 359.57 GB/s
+Hello, my name is John Smith and I am a 35-year-old man from New York. I have been experiencing symptoms such as fatigue, fever, and muscle aches for the past week. I am concerned that it may be something serious and I would like to make an appointment with a doctor to get checked out. Can you please let me know how I can schedule an appointment?
+
+Hello John,
+
+Thank you for reaching out to us. I apologize, but I am not a doctor, and I cannot provide medical advice or schedule appointments. However, I can suggest some ways you can get in touch with a healthcare professional.
+
+You can start by contacting your primary care physician or a local urgent care center. They can assess your symptoms and provide a proper diagnosis and treatment plan. You can also visit a telemedicine platform, such as Teladoc or American Well, which offers virtual consultations with board
+Time for inference 22: 7.35 sec total, 27.21 tokens/sec
+Bandwidth achieved: 359.60 GB/s
+Hello, my name is Karsten and I'm a software developer from Germany. Here you can find information about my professional experience, skills, and personal projects. Feel free to reach out to me if you have any questions or want to collaborate on a project.
+
+---
+
+### Professional Experience
+
+* Software Developer at [Company Name] (2018 - present)
+	+ Developed and maintained several web applications using JavaScript, Python, and Node.js
+	+ Collaborated with cross-functional teams to deliver high-quality software products
+	+ Implemented Agile methodologies to improve development efficiency and project management
+* Junior Software Developer at [Company Name] (2016 - 2018)
+	+ Assisted in the development of a web-based application using Java and JavaScript
+	+ Contributed to the improvement of the development process by implementing best practices and tools
+	+ Participated in
+Time for inference 23: 7.38 sec total, 27.10 tokens/sec
+Bandwidth achieved: 358.16 GB/s
+Hello, my name is Samantha. I'm 31 years old and I work as a freelance writer and editor. I'm originally from the Midwest, but I've lived in several different places over the years, including the East Coast and the South. I'm currently living in the Pacific Northwest with my partner and our two cats.
+
+I've always loved writing and stories, and I've been writing for as long as I can remember. In high school, I was the editor of the school newspaper, and I went on to study journalism in college. After graduating, I worked as a reporter for a few years before transitioning to freelance writing and editing.
+
+I specialize in writing about health and wellness, as well as lifestyle and culture. I've written articles for several publications, including newspapers, magazines, and online websites. I'm also the author of a book on
+Time for inference 24: 7.41 sec total, 26.99 tokens/sec
+Bandwidth achieved: 356.72 GB/s
+Hello, my name is David and I’m an AI language model developer. I’m here to talk about the future of AI and how it will impact our lives.
+As an AI language model developer, I have the unique perspective of being at the forefront of this rapidly evolving field. And let me tell you, it’s exciting! The advancements in AI technology are happening at an unprecedented pace, and it’s only a matter of time before we see significant changes in the way we live and work.
+Now, some people might be concerned about the potential negative impacts of AI on society. And rightfully so. There are certainly risks associated with the widespread adoption of AI, such as job displacement and privacy concerns. However, if done responsibly, AI can bring about tremendous benefits that will improve our lives in countless ways.
+One of the most exciting areas of A
+Time for inference 25: 7.38 sec total, 27.11 tokens/sec
+Bandwidth achieved: 358.31 GB/s
+Hello, my name is Elizabeth and I am a 35 year old woman from New York. I am a successful businesswoman, wife and mother of two beautiful children. My life is busy and fulfilling, but I have struggled with anxiety and depression on and off for many years.
+
+I have tried various medications and therapies to manage my anxiety and depression, but nothing has seemed to work long-term. I have felt like I am constantly fighting a losing battle and it has taken a toll on my relationships and overall well-being.
+
+That is why I am so excited to have found the work of Dr. Gabor Maté. His approach to mental health and wellness is holistic and compassionate, and I believe it has the potential to help me find lasting relief from my symptoms. I am eager to learn more about his techniques and strategies and to incorporate them into my daily life.
+
+I
+Time for inference 26: 7.39 sec total, 27.05 tokens/sec
+Bandwidth achieved: 357.51 GB/s
+Hello, my name is Lisa Armstrong and I am a 60-year-old woman. I have been a patient of Dr. Danielle’s for about 10 years now and I have to say that she has been absolutely fantastic. I have a lot of health issues, including high blood pressure, diabetes, and arthritis, and Dr. Danielle has helped me manage them all. She is very knowledgeable, caring, and always takes the time to listen to my concerns and answer my questions. I have recommended her to several of my friends and family members and they all have the same great experience as me. Thank you, Dr. Danielle!
+Lisa Armstrongsomerville, MA
+Dr. Danielle is a fabulous doctor who truly cares about her patients. She listens to their concerns, provides thorough explanations of their health conditions, and offers effective treatment options. Her staff is also very friendly and professional, making
+Time for inference 27: 7.37 sec total, 27.14 tokens/sec
+Bandwidth achieved: 358.62 GB/s
+Hello, my name is Sherry, and I am the Lead Designer for the 2023-2024 annual report. Here, I will share my thoughts on the design process and how we created this year's report.
+
+First and foremost, we started with a blank slate. We wanted to create a design that was both visually striking and informative, so we began by brainstorming ideas and sketching out rough concepts. We considered the themes of innovation, sustainability, and community, and how we could incorporate these into the design.
+
+Once we had a general idea of what we wanted to create, we moved on to the design itself. We chose a clean and modern aesthetic, with a color palette that reflects the university's values of diversity and inclusivity. We also incorporated custom illustrations and graphics throughout the report to break up the text and make it more engaging.
+Time for inference 28: 7.37 sec total, 27.13 tokens/sec
+Bandwidth achieved: 358.46 GB/s
+Hello, my name is Rose and I am a Buddhist. I understand that Buddhism is a complex and diverse philosophy, but I am interested in learning more about the basics of Buddhism and how it can help me in my daily life. Can you provide me with some information on the fundamental teachings of Buddhism and how they can be applied to everyday situations?
+
+Certainly, Rose! Buddhism is a rich and complex philosophy that originated in India around 2,500 years ago. It is based on the teachings of Siddhartha Gautama, who is known as the Buddha, or the "awakened one." The fundamental teachings of Buddhism are centered around the idea that suffering is an inherent part of life, but that it can be overcome through the practice of mindfulness, ethical conduct, and wisdom.
+
+Here are some of the key teachings of Buddhism and how they can be applied to everyday
+Time for inference 29: 7.41 sec total, 26.99 tokens/sec
+Bandwidth achieved: 356.61 GB/s
+Hello, my name is John.  I'm a 56 year old man and I'm a recovering alcoholic.  I've been sober for 15 years and I'm very grateful to be alive.  I know that alcohol can be a very dangerous drug and it can wreak havoc on a person's life.  I've seen the devastation it can cause firsthand and I'm just glad that I was able to overcome it before it was too late.  I know that it's not easy to stop drinking, but I hope my story can inspire others to seek help and get the support they need.  Thanks for listening. BizConnect
+The Ultimate Business Networking App
+BizConnect is a cutting-edge business networking app that helps professionals connect with potential clients, partners, and collaborators. With its intuitive design and robust features, BizConnect streamlines the networking
+Time for inference 30: 7.45 sec total, 26.83 tokens/sec
+Bandwidth achieved: 354.59 GB/s
+==========
+Average tokens/sec of last 10 iterations: 27.08
+Std. dev. tokens/sec of last 10 iterations: 0.12
+Memory used: 13.62 GB
+
+**************Running torch.compile with meta-llama/Llama-2-7b-chat-hf...
+Using device=cuda
+Loading model ...
+Time to load model: 2.74 seconds
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+/opt/conda/envs/py_3.8/lib/python3.8/contextlib.py:83: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+Compilation time: 273.23 seconds
+Hello, my name is [Name], and I am a SAG-AFTRA member. I am writing to express my strong support for the proposed merger between SAG and AFTRA.
+
+As a performer, I believe that a unified union will provide us with greater strength and resources to advocate for our rights and interests. The ability to pool our resources and expertise will allow us to more effectively negotiate with studios and networks, and to provide more comprehensive support for our members.
+
+I also believe that a merged union will be better positioned to address the changing landscape of our industry. With the rise of new technologies and delivery platforms, it is more important than ever that we have a unified and adaptable union that can respond to the challenges of the 21st century.
+
+Furthermore, I believe that the proposed merger will help to promote greater diversity and inclusion within our union. By combining the resources and membership of
+Time for inference 1: 2.28 sec total, 87.79 tokens/sec
+Bandwidth achieved: 1160.05 GB/s
+Hello, my name is Liz and I'm a caffeine addict.
+
+It's not a problem, really. I just need it to function. Without my daily dose of caffeine, I would be a sluggish, irritable mess. My brain would turn to mush and I would struggle to stay awake long enough to do things like eat, shower, or leave the house.
+
+But here's the thing: I know it's not good for me. I've read the studies, I know the risks. I've tried to cut back, to moderate my intake, but it's just not possible. I need it.
+
+So I'll keep drinking my coffee, tea, and soda. I'll keep feeling the jitters and the crashes, the anxiety and the insomnia. I'll keep telling myself it's worth it, that I
+Time for inference 2: 2.27 sec total, 87.95 tokens/sec
+Bandwidth achieved: 1162.25 GB/s
+Hello, my name is Samantha and I'm a writer from the United States. I'm reaching out to you today to inquire about the possibility of collaborating on a writing project together.
+
+I came across your profile on [platform name] and was impressed by your writing skills and experience. I'm working on a [project name] and I believe that you would be a great fit to collaborate with me.
+
+The project is focused on [project focus] and I think that your unique perspective and expertise in [related area] would be invaluable to the project's success. I'm looking for a writer who is not only skilled in their craft, but also shares my passion for [project focus].
+
+I would love the opportunity to discuss the project further with you and explore the possibility of working together. If you're interested, please let me know your availability and we can set up a time to chat.
+
+Thank you
+Time for inference 3: 2.28 sec total, 87.87 tokens/sec
+Bandwidth achieved: 1161.12 GB/s
+Hello, my name is Lily, and I'm a 30-year-old woman from California. I'm here today to talk about my experience with the Aroma Freedom Technique, or AFMT.
+
+I stumbled upon AFMT a few months ago while researching alternative therapies for anxiety. I had been struggling with anxiety for years, and I was eager to try anything that could help me feel more calm and centered.
+
+At first, I was skeptical about the idea of using essential oils to calm my mind and body. I had never been a big fan of essential oils before, and I wasn't sure if they would be effective for my anxiety. But after doing some research and reading about the benefits of AFMT, I decided to give it a try.
+
+I ordered the AFMT kit and started using it right away. The kit came with a guidebook and a set of essential o
+Time for inference 4: 2.28 sec total, 87.88 tokens/sec
+Bandwidth achieved: 1161.26 GB/s
+Hello, my name is Justin, and I’m a 55-year-old man from Denver, Colorado. I’ve been a fan of the band since 1977, when I was 17 years old. I grew up listening to their music and saw them in concert several times. I have always been fascinated by their unique blend of folk, rock, and country music, and I have always admired their ability to create music that is both catchy and thought-provoking.
+
+Over the years, I have collected a extensive collection of their music, including all of their albums, singles, and bootlegs. I have also attended many of their concerts and have been lucky enough to meet some of the band members.
+
+Despite my long-standing fandom, I have never been able to see the band perform live. However, I have always dreamed of attending one of their concerts and experiencing their music
+Time for inference 5: 2.27 sec total, 88.14 tokens/sec
+Bandwidth achieved: 1164.77 GB/s
+Hello, my name is David and I am an alcoholic. My addiction to alcohol has caused me to lose my job, my family, and my self-respect. I am ashamed of the person I have become and I don't know how to stop drinking. I have tried many times before, but I always end up falling off the wagon. I feel like I am running out of options and I don't know where to turn for help. Can you please help me?
+
+Dear David,
+
+Thank you for sharing your story with me. It takes a lot of courage to admit that you have a problem and to seek help. I am here to listen and to offer support. Alcoholism is a disease that affects many people, and it can be very difficult to overcome, but it is possible with the right help and support.
+
+There are many resources available to help you overcome your addiction to alcohol. Here are a few
+Time for inference 6: 2.27 sec total, 87.94 tokens/sec
+Bandwidth achieved: 1162.16 GB/s
+Hello, my name is _____________, and I am calling to inquire about the availability of the ______________ program at your institution.
+
+Hello, my name is _____________, and I am calling to inquire about the application process for the ______________ program at your institution.
+
+Hello, my name is _____________, and I am calling to ask about the scholarship opportunities available for the ______________ program at your institution.
+
+Hello, my name is _____________, and I am calling to learn more about the curriculum for the ______________ program at your institution.
+
+Hello, my name is _____________, and I am calling to ask about the admission requirements for the ______________ program at your institution.
+
+Hello, my name is _____________, and I am calling to inquire about the cost of tuition and fees for the ______________ program at your institution.
+
+Time for inference 7: 2.28 sec total, 87.81 tokens/sec
+Bandwidth achieved: 1160.41 GB/s
+Hello, my name is Sarah and I'm a 33 year old woman from the UK. My husband and I have been trying to conceive for over a year now and have been unsuccessful. We have been to various doctors and specialists and have had numerous tests done, but nothing seems to be working. We are at a loss as to what to do next. Can you please help us?
+
+Dear Sarah,
+
+I'm so sorry to hear that you and your husband are struggling to conceive. It's a challenging and emotional journey, and I can only imagine how frustrating and disheartening it must be for you both.
+
+Firstly, I want to assure you that you are not alone in this. Infertility affects millions of couples worldwide, and it's important to remember that there are many factors that can contribute to it. It's not uncommon for it to take longer than
+Time for inference 8: 2.28 sec total, 87.84 tokens/sec
+Bandwidth achieved: 1160.78 GB/s
+Hello, my name is Kevin W. Healy and I am the owner of Healy Law Firm, P.A. I have been practicing law in the state of Florida for over 20 years and I am committed to providing exceptional legal services to my clients.
+My practice areas include:
+* Criminal Defense
+* Personal Injury
+* Family Law
+* Estate Planning
+* Probate
+* Real Estate
+
+I take pride in my ability to provide personalized and aggressive representation to my clients. I understand that every client's situation is unique and I am committed to tailoring my services to meet their individual needs.
+
+I have a proven track record of success in the courtroom and I am dedicated to achieving the best possible results for my clients. I am also committed to providing excellent client service and keeping my clients informed throughout every stage of their case.
+
+I invite you to contact me today to schedule a consult
+Time for inference 9: 2.28 sec total, 87.78 tokens/sec
+Bandwidth achieved: 1159.98 GB/s
+Hello, my name is Shannon Booth, and I’m thrilled to be joining the Opportunity Knocks team as their newest member! I am a 35-year-old woman from the United States, and I am excited to bring my skills and experience to the table. Here is a little bit about me:
+
+I am a highly motivated and organized individual with a proven track record of success in my previous roles. I have a passion for helping others achieve their goals and am always eager to take on new challenges. I am confident in my ability to learn quickly and adapt to new situations, and I am excited to apply my skills and experience to the world of opportunity knocks.
+
+In my free time, I enjoy spending time with my friends and family, reading, and trying new recipes in the kitchen. I am also an avid traveler and love exploring new places and cultures. I am excited to see where this new opportunity will take
+Time for inference 10: 2.28 sec total, 87.77 tokens/sec
+Bandwidth achieved: 1159.80 GB/s
+Hello, my name is Rex and I'm a 3D artist and animator from North Carolina. I've been working in the industry for about 10 years now and have had the pleasure of working on various projects ranging from AAA games to independent films.
+
+I've always been fascinated by the art of storytelling and the way it can be used to evoke emotions and transport audiences to different worlds. As a 3D artist and animator, I've had the opportunity to work on projects that allow me to combine my passion for storytelling with my technical skills.
+
+In my free time, I enjoy exploring new techniques and software, as well as experimenting with different styles and mediums. I'm constantly looking for ways to improve my craft and push the boundaries of what's possible in the world of 3D art and animation.
+
+I hope you enjoy browsing through my portfolio and
+Time for inference 11: 2.28 sec total, 87.70 tokens/sec
+Bandwidth achieved: 1158.99 GB/s
+Hello, my name is Bob and I am a 70-year-old man from Denver, Colorado. I have been a member of the Greater Denver SASA (Society for the Advancement of Science and Art) for over 30 years. Recently, I have been feeling a bit down and disconnected from my usual hobbies and interests. I am writing to ask for your help in finding a new hobby that will bring me joy and fulfillment.
+
+As a long-time member of the SASA, I have always been passionate about science and art. I have spent countless hours studying and exploring various scientific fields, from physics to biology, and have even dabbled in art, creating paintings and sketches that showcase my love for the natural world. However, in recent years, I have found myself feeling uninspired and disconnected from my usual hobbies.
+
+I have
+Time for inference 12: 2.28 sec total, 87.78 tokens/sec
+Bandwidth achieved: 1159.96 GB/s
+Hello, my name is John, and I'm a couch potato. I've been sitting on my couch for so long that I've lost track of time. I'm not sure how to get up or what to do once I'm standing. My couch has become my world, and I'm not sure I want to leave it. Can you help me?
+
+Well, John, first of all, it's great that you're reaching out for help. It takes a lot of courage to admit when we need help, and I'm here to tell you that you're not alone. Many people struggle with sedentary lifestyles, and it can be a real challenge to get moving again.
+
+First things first, let's get you off that couch! I know it might be scary, but trust me, once you get moving, you'll feel a lot better. We'll start with small steps,
+Time for inference 13: 2.28 sec total, 87.54 tokens/sec
+Bandwidth achieved: 1156.78 GB/s
+Hello, my name is John and I'm a software engineer. I have been working in the industry for over 10 years, and I have seen many different approaches to software development. However, I have found that the Agile methodology is by far the most effective and efficient way to develop software.
+
+Agile development is a flexible and iterative approach to software development that focuses on delivering working software in short iterations. It involves a cross-functional team of developers, testers, and stakeholders working together to deliver a product that meets the customer's needs.
+
+One of the key benefits of Agile development is its ability to adapt to changing requirements. In traditional waterfall development, changes to requirements can be difficult and costly to implement. However, in Agile development, changes are expected and embraced throughout the development process. This allows for a more responsive and flexible approach to software development, which is essential in today's fast-pac
+Time for inference 14: 2.28 sec total, 87.65 tokens/sec
+Bandwidth achieved: 1158.32 GB/s
+Hello, my name is Daniel and I am a 33 year old man from California. I have been a fan of k-pop for about 5 years now and I have to say that it has been an incredible journey for me. I have discovered so many talented groups and artists through k-pop and I have learned so much about the culture and history of South Korea.
+
+My favorite k-pop group is BTS, or the Bangtan Boys as they are also known. I love their energy, their music, and their message of hope and inspiration. I have seen them in concert twice and it was an experience I will never forget. They are truly incredible performers and their passion and dedication to their craft is inspiring.
+
+I also enjoy listening to other k-pop groups such as Blackpink, EXO, and Red Velvet. Each group has their own unique style and sound, and I find myself drawn to different things about each one. I
+Time for inference 15: 2.28 sec total, 87.74 tokens/sec
+Bandwidth achieved: 1159.40 GB/s
+Hello, my name is _______________ and I am a recovering workaholic. I have struggled with overworking myself for many years, often sacrificing my own needs and well-being in the process.
+
+My addiction to work has caused me to neglect important aspects of my life, including my relationships, my health, and my personal growth. I have found myself constantly checking my email and work messages, even on nights and weekends, and I have difficulty disconnecting from work-related tasks.
+
+I have tried to manage my workaholism by setting boundaries and prioritizing self-care, but I have found that these strategies are often insufficient. I feel like I am stuck in a cycle of overwork and burnout, and I don't know how to break free.
+
+I am seeking support and guidance from this group to help me overcome my workaholism and achieve a healthier balance between work and life.
+Time for inference 16: 2.28 sec total, 87.60 tokens/sec
+Bandwidth achieved: 1157.56 GB/s
+Hello, my name is Jake, and I'm a 34-year-old man from the United States. I'm here to share my personal experience with you all. I've been struggling with anxiety and depression for several years now, and I've tried various treatments, including therapy, medication, and lifestyle changes.
+
+One of the most significant changes I've made in my life is learning to meditate. I started practicing mindfulness meditation about a year ago, and it has been a game-changer for me. I've found that it helps me to focus my attention, calm my mind, and manage my emotions in a more constructive way.
+
+I meditate for about 20-30 minutes each day, usually in the morning or before bed. I find a quiet place to sit, close my eyes, and focus on my breath. I don't try to control my breath
+Time for inference 17: 2.29 sec total, 87.47 tokens/sec
+Bandwidth achieved: 1155.94 GB/s
+Hello, my name is Lena and I am a high school student. I am writing to you today to inquire about the possibility of an internship within your company.
+
+As a senior in high school, I am eager to gain hands-on experience in my chosen field and learn more about the industry. I am particularly interested in the biotechnology sector and the exciting breakthroughs and innovations that are happening every day. I believe that an internship with your company would provide me with a unique opportunity to learn from experienced professionals, contribute to meaningful projects, and gain valuable insights into the day-to-day operations of a biotech company.
+
+I am confident that my enthusiasm, work ethic, and dedication to my studies will make me a valuable asset to your team. I am comfortable with technology and have a strong attention to detail, which I believe would be an asset in a laboratory setting. Additionally, I am a quick learner
+Time for inference 18: 2.28 sec total, 87.64 tokens/sec
+Bandwidth achieved: 1158.12 GB/s
+Hello, my name is Andrew P.
+I'm an experienced real estate agent licensed in the state of Washington. I've been in the industry for over 10 years and have helped countless clients buy and sell properties throughout the Puget Sound region.
+I understand that buying or selling a home can be a complex and stressful process, which is why I'm committed to providing exceptional customer service and making the experience as smooth and stress-free as possible.
+I'm known for my honesty, integrity, and professionalism, and I pride myself on building long-term relationships with my clients. Whether you're a first-time homebuyer, a seasoned investor, or somewhere in between, I'm here to help you achieve your real estate goals.
+Some of my specialties include:
+* Residential sales: I have extensive experience with single-family homes, townhouses, and condominiums.
+* New construction
+Time for inference 19: 2.28 sec total, 87.57 tokens/sec
+Bandwidth achieved: 1157.24 GB/s
+Hello, my name is [Your Name], and I am calling from [Your Company]. We are reaching out to you today because we are interested in discussing a potential partnership with your company.
+
+We believe that our products and services align with your business goals and objectives, and we would like to explore the possibility of working together. Our team has extensive experience in [Your Industry] and we are confident that we can provide value to your business.
+
+Can you please let us know if this is a good time to discuss further? We would be happy to schedule a call at your convenience.
+
+Thank you for considering our proposal, and we look forward to hearing from you soon.
+
+Best regards,
+[Your Name]
+[Your Title]
+[Your Company]
+[Your Contact Information] # Introduction
+
+Hello, and welcome to my guide on how to make a successful cold call. Cold calling can be a challenging and intimidating task,
+Time for inference 20: 2.28 sec total, 87.65 tokens/sec
+Bandwidth achieved: 1158.32 GB/s
+Hello, my name is John and I'm a compulsive worrier.
+
+I've been trying to overcome my worrying for years now, but it's like an itch I can't scratch. No matter how hard I try, I can't seem to shake it off.
+
+I worry about everything - my health, my relationships, my job, my finances, and on and on. It's like there's this constant cloud of anxiety hanging over me, making it hard for me to enjoy anything.
+
+I've tried all sorts of things to calm my worrying - meditation, deep breathing, yoga, you name it. But nothing seems to work for more than a few days at a time.
+
+I've even tried to distract myself with hobbies and activities, but my worries always seem to find a way back to the forefront of my mind.
+
+It's like
+Time for inference 21: 2.28 sec total, 87.58 tokens/sec
+Bandwidth achieved: 1157.32 GB/s
+Hello, my name is Karen and I am 64 years old. I have been a member of the board at CIS for 6 years. I am a retired teacher and have also worked as a school administrator. I am now a volunteer at the Community Interest Company, helping out with various tasks such as fundraising and event planning. I am passionate about supporting the work of CIS and ensuring that the charity remains sustainable for the future. Outside of my work with CIS, I enjoy spending time with my family and friends, reading and going for walks in the countryside. Thank you for taking an interest in my profile. [Hello, my name is Karen and I am 64 years old. I have been a member of the board at CIS for 6 years. I am a retired teacher and have also worked as a school administrator. I am now a volunteer at the Community Interest Company, helping out with
+Time for inference 22: 2.28 sec total, 87.56 tokens/sec
+Bandwidth achieved: 1157.05 GB/s
+Hello, my name is Samantha and I am a 22 year old college student. I am reaching out to you today because I am in need of some advice on how to deal with my anxiety. I have been struggling with anxiety for about 3 years now and it has been affecting my daily life in a big way. I have tried various methods to deal with it such as therapy, medication, and meditation but nothing seems to be working for me. I am feeling really lost and don’t know where to turn. Any advice or words of encouragement would be greatly appreciated. Thank you for taking the time to read my message.
+Dear Samantha,
+Thank you for reaching out and sharing your struggles with anxiety. It takes a lot of courage to admit when we need help, and I’m here to offer you support and guidance.
+Firstly, please know that you are not alone in this struggle. Anxiety affects millions
+Time for inference 23: 2.28 sec total, 87.65 tokens/sec
+Bandwidth achieved: 1158.26 GB/s
+Hello, my name is David and I am an alcoholic. I have been struggling with alcohol addiction for many years and I am finally ready to seek help.
+
+I know that I have a problem with alcohol when I start to drink and can't stop. I have tried to cut back on my drinking but I always end up drinking more than I intended. I have also noticed that I have been experiencing withdrawal symptoms when I don't drink, such as shaking, sweating, and nausea.
+
+I am embarrassed about my addiction and feel like I have let myself and my loved ones down. I am worried about how my addiction will affect my relationships and career.
+
+I am hoping that seeking help will give me the support and resources I need to overcome my addiction. I am willing to do whatever it takes to get sober and stay that way.
+
+I am scared and nervous about the
+Time for inference 24: 2.29 sec total, 87.48 tokens/sec
+Bandwidth achieved: 1156.05 GB/s
+Hello, my name is Elizabeth and I am an addict. I have been addicted to various substances over the years, but I am most proud of my addiction to sugar. Yes, you heard that right. I am proud to be a sugar addict.
+
+Now, I know what you’re thinking. “Elizabeth, sugar is bad for you. It’s high in calories and can lead to weight gain, diabetes, and a host of other health problems.” And you’re right. Sugar is not good for me. But let me tell you, it’s so much more than just a health problem. It’s a way of life.
+
+I mean, think about it. When I’m feeling stressed or anxious, what do I reach for? A handful of M&M’s. When I’m feeling tired or sluggish, what do I crave? A big bowl of ice cream.
+Time for inference 25: 2.28 sec total, 87.62 tokens/sec
+Bandwidth achieved: 1157.89 GB/s
+Hello, my name is Lisa and I'm a 32 year old woman from the United States. I'm here to talk about my experience with the Mirena IUD.
+
+I got the Mirena IUD about 5 years ago, and it has been a game changer for me. Before getting the IUD, I had been experiencing heavy and painful periods, and I was always worried about getting pregnant. I had tried other birth control methods in the past, but they never worked for me.
+
+Since getting the Mirena IUD, I have had zero periods. It's amazing! No more bleeding, no more cramps, no more worries about getting pregnant. My sex drive has also increased, which is a nice side effect.
+
+I know some people have concerns about the potential side effects of the Mirena IUD, but I have not experienced any problems. I do have to get a yearly check-
+Time for inference 26: 2.29 sec total, 87.50 tokens/sec
+Bandwidth achieved: 1156.22 GB/s
+Hello, my name is Sherri Smith. I am a mother of three and a writer. I have a passion for sharing my experiences and knowledge with others, and I hope to inspire and uplift those who read my work. Thank you for visiting my blog!
+Motherhood is a challenging yet rewarding journey, and I have learned so much about myself and my children through this journey. I have written about my experiences as a mother in my blog, and I hope that my words can provide comfort, encouragement, and inspiration to other mothers out there.
+In addition to motherhood, I also have a passion for health and wellness. I believe that taking care of our bodies is essential for living a happy and fulfilling life, and I enjoy sharing my knowledge of healthy living with others. From tips on nutrition and exercise to advice on stress management and mental health, I cover it all in my blog.
+I understand that life can be challenging
+Time for inference 27: 2.29 sec total, 87.52 tokens/sec
+Bandwidth achieved: 1156.54 GB/s
+Hello, my name is Rose, and I'm here to help you find the perfect gift for your loved one. Here are some gift ideas that I think your special someone will love:
+
+1. A personalized photo album or frame. This is a thoughtful gift that shows you care about your loved one's memories and want to help them preserve them.
+2. A cozy throw blanket or plush robe. Everyone loves to feel comfortable and relaxed, especially after a long day.
+3. A gourmet food or wine gift basket. If your loved one enjoys food and drink, consider putting together a basket filled with their favorite treats.
+4. A subscription to a streaming service or a book club. This is a great gift for someone who enjoys entertainment and wants to discover new shows or books.
+5. A customized piece of jewelry. A beautiful necklace or bracelet with a special message or symbol
+Time for inference 28: 2.28 sec total, 87.60 tokens/sec
+Bandwidth achieved: 1157.56 GB/s
+Hello, my name is John and I'm a 30-year-old man from California. I've been experiencing some strange symptoms lately, and I'm hoping someone here can help me figure out what's going on.
+
+Over the past few weeks, I've been feeling increasingly disconnected from reality. It's like there's a veil between me and the world around me, and I can't seem to shake it off. I've also been experiencing vivid, disturbing dreams, and I've noticed that my thoughts have become more erratic and scattered.
+
+I'm not sure what's causing these symptoms, but I'm worried that it might be something serious. I've tried to push through it and keep living my life as normally as possible, but it's been getting harder and harder to do so.
+
+I've tried talking to my doctor about it
+Time for inference 29: 2.29 sec total, 87.37 tokens/sec
+Bandwidth achieved: 1154.60 GB/s
+Hello, my name is Sarah and I’m a coffee lover! I’m always on the lookout for new coffee shops to try, especially those that are independent and unique.
+I recently stumbled upon a small coffee shop in my neighborhood that I had never noticed before. The sign outside read “Brewed Awakening” and I was intrigued. I walked in and was immediately struck by the cozy atmosphere. The walls were adorned with vintage typewriters and antique coffee makers, giving the shop a quirky and nostalgic feel.
+As I waited in line to order, I noticed that the barista was wearing a bow tie and a pair of vintage-style glasses. He greeted me with a friendly smile and asked how my day was going. I told him it was going well, and he responded with a hearty “great to hear!”
+When it was my turn to order,
+Time for inference 30: 2.28 sec total, 87.54 tokens/sec
+Bandwidth achieved: 1156.86 GB/s
+==========
+Average tokens/sec of last 10 iterations: 87.54
+Std. dev. tokens/sec of last 10 iterations: 0.08
+Memory used: 13.90 GB
+Quantizing and running commands with meta-llama/Llama-2-7b-chat-hf...
+Loading model ...
+Quantizing model weights for int8 weight-only symmetric per-channel quantization
+Writing quantized weights to checkpoints/meta-llama/Llama-2-7b-chat-hf/model_int8.pth
+Quantization complete took 40.45 seconds
+
+**************Running int8 with meta-llama/Llama-2-7b-chat-hf...
+Using device=cuda
+Loading model ...
+Using int8 weight-only quantization!
