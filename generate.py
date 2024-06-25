@@ -417,7 +417,7 @@ if __name__ == '__main__':
 
     parser.add_argument('--prompt', type=str, default="Hello, my name is", help='Input prompt.')
     parser.add_argument('--interactive', action='store_true', help='Whether to launch in interactive mode')
-    parser.add_argument('--num_samples', type=int, default=5, help='Number of samples.')
+    parser.add_argument('--num_samples', type=int, default=20, help='Number of samples.')
     parser.add_argument('--max_new_tokens', type=int, default=200, help='Maximum number of new tokens.')
     parser.add_argument('--top_k', type=int, default=200, help='Top-k for sampling.')
     parser.add_argument('--temperature', type=float, default=0.8, help='Temperature for sampling.')
